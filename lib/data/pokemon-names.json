@@ -1,0 +1,5127 @@
+[
+  {
+    "id": 1,
+    "english": "bulbasaur",
+    "korean": "이상해씨"
+  },
+  {
+    "id": 2,
+    "english": "ivysaur",
+    "korean": "이상해풀"
+  },
+  {
+    "id": 3,
+    "english": "venusaur",
+    "korean": "이상해꽃"
+  },
+  {
+    "id": 4,
+    "english": "charmander",
+    "korean": "파이리"
+  },
+  {
+    "id": 5,
+    "english": "charmeleon",
+    "korean": "리자드"
+  },
+  {
+    "id": 6,
+    "english": "charizard",
+    "korean": "리자몽"
+  },
+  {
+    "id": 7,
+    "english": "squirtle",
+    "korean": "꼬부기"
+  },
+  {
+    "id": 8,
+    "english": "wartortle",
+    "korean": "어니부기"
+  },
+  {
+    "id": 9,
+    "english": "blastoise",
+    "korean": "거북왕"
+  },
+  {
+    "id": 10,
+    "english": "caterpie",
+    "korean": "캐터피"
+  },
+  {
+    "id": 11,
+    "english": "metapod",
+    "korean": "단데기"
+  },
+  {
+    "id": 12,
+    "english": "butterfree",
+    "korean": "버터플"
+  },
+  {
+    "id": 13,
+    "english": "weedle",
+    "korean": "뿔충이"
+  },
+  {
+    "id": 14,
+    "english": "kakuna",
+    "korean": "딱충이"
+  },
+  {
+    "id": 15,
+    "english": "beedrill",
+    "korean": "독침붕"
+  },
+  {
+    "id": 16,
+    "english": "pidgey",
+    "korean": "구구"
+  },
+  {
+    "id": 17,
+    "english": "pidgeotto",
+    "korean": "피죤"
+  },
+  {
+    "id": 18,
+    "english": "pidgeot",
+    "korean": "피죤투"
+  },
+  {
+    "id": 19,
+    "english": "rattata",
+    "korean": "꼬렛"
+  },
+  {
+    "id": 20,
+    "english": "raticate",
+    "korean": "레트라"
+  },
+  {
+    "id": 21,
+    "english": "spearow",
+    "korean": "깨비참"
+  },
+  {
+    "id": 22,
+    "english": "fearow",
+    "korean": "깨비드릴조"
+  },
+  {
+    "id": 23,
+    "english": "ekans",
+    "korean": "아보"
+  },
+  {
+    "id": 24,
+    "english": "arbok",
+    "korean": "아보크"
+  },
+  {
+    "id": 25,
+    "english": "pikachu",
+    "korean": "피카츄"
+  },
+  {
+    "id": 26,
+    "english": "raichu",
+    "korean": "라이츄"
+  },
+  {
+    "id": 27,
+    "english": "sandshrew",
+    "korean": "모래두지"
+  },
+  {
+    "id": 28,
+    "english": "sandslash",
+    "korean": "고지"
+  },
+  {
+    "id": 29,
+    "english": "nidoran-f",
+    "korean": "니드런♀"
+  },
+  {
+    "id": 30,
+    "english": "nidorina",
+    "korean": "니드리나"
+  },
+  {
+    "id": 31,
+    "english": "nidoqueen",
+    "korean": "니드퀸"
+  },
+  {
+    "id": 32,
+    "english": "nidoran-m",
+    "korean": "니드런♂"
+  },
+  {
+    "id": 33,
+    "english": "nidorino",
+    "korean": "니드리노"
+  },
+  {
+    "id": 34,
+    "english": "nidoking",
+    "korean": "니드킹"
+  },
+  {
+    "id": 35,
+    "english": "clefairy",
+    "korean": "삐삐"
+  },
+  {
+    "id": 36,
+    "english": "clefable",
+    "korean": "픽시"
+  },
+  {
+    "id": 37,
+    "english": "vulpix",
+    "korean": "식스테일"
+  },
+  {
+    "id": 38,
+    "english": "ninetales",
+    "korean": "나인테일"
+  },
+  {
+    "id": 39,
+    "english": "jigglypuff",
+    "korean": "푸린"
+  },
+  {
+    "id": 40,
+    "english": "wigglytuff",
+    "korean": "푸크린"
+  },
+  {
+    "id": 41,
+    "english": "zubat",
+    "korean": "주뱃"
+  },
+  {
+    "id": 42,
+    "english": "golbat",
+    "korean": "골뱃"
+  },
+  {
+    "id": 43,
+    "english": "oddish",
+    "korean": "뚜벅쵸"
+  },
+  {
+    "id": 44,
+    "english": "gloom",
+    "korean": "냄새꼬"
+  },
+  {
+    "id": 45,
+    "english": "vileplume",
+    "korean": "라플레시아"
+  },
+  {
+    "id": 46,
+    "english": "paras",
+    "korean": "파라스"
+  },
+  {
+    "id": 47,
+    "english": "parasect",
+    "korean": "파라섹트"
+  },
+  {
+    "id": 48,
+    "english": "venonat",
+    "korean": "콘팡"
+  },
+  {
+    "id": 49,
+    "english": "venomoth",
+    "korean": "도나리"
+  },
+  {
+    "id": 50,
+    "english": "diglett",
+    "korean": "디그다"
+  },
+  {
+    "id": 51,
+    "english": "dugtrio",
+    "korean": "닥트리오"
+  },
+  {
+    "id": 52,
+    "english": "meowth",
+    "korean": "나옹"
+  },
+  {
+    "id": 53,
+    "english": "persian",
+    "korean": "페르시온"
+  },
+  {
+    "id": 54,
+    "english": "psyduck",
+    "korean": "고라파덕"
+  },
+  {
+    "id": 55,
+    "english": "golduck",
+    "korean": "골덕"
+  },
+  {
+    "id": 56,
+    "english": "mankey",
+    "korean": "망키"
+  },
+  {
+    "id": 57,
+    "english": "primeape",
+    "korean": "성원숭"
+  },
+  {
+    "id": 58,
+    "english": "growlithe",
+    "korean": "가디"
+  },
+  {
+    "id": 59,
+    "english": "arcanine",
+    "korean": "윈디"
+  },
+  {
+    "id": 60,
+    "english": "poliwag",
+    "korean": "발챙이"
+  },
+  {
+    "id": 61,
+    "english": "poliwhirl",
+    "korean": "슈륙챙이"
+  },
+  {
+    "id": 62,
+    "english": "poliwrath",
+    "korean": "강챙이"
+  },
+  {
+    "id": 63,
+    "english": "abra",
+    "korean": "캐이시"
+  },
+  {
+    "id": 64,
+    "english": "kadabra",
+    "korean": "윤겔라"
+  },
+  {
+    "id": 65,
+    "english": "alakazam",
+    "korean": "후딘"
+  },
+  {
+    "id": 66,
+    "english": "machop",
+    "korean": "알통몬"
+  },
+  {
+    "id": 67,
+    "english": "machoke",
+    "korean": "근육몬"
+  },
+  {
+    "id": 68,
+    "english": "machamp",
+    "korean": "괴력몬"
+  },
+  {
+    "id": 69,
+    "english": "bellsprout",
+    "korean": "모다피"
+  },
+  {
+    "id": 70,
+    "english": "weepinbell",
+    "korean": "우츠동"
+  },
+  {
+    "id": 71,
+    "english": "victreebel",
+    "korean": "우츠보트"
+  },
+  {
+    "id": 72,
+    "english": "tentacool",
+    "korean": "왕눈해"
+  },
+  {
+    "id": 73,
+    "english": "tentacruel",
+    "korean": "독파리"
+  },
+  {
+    "id": 74,
+    "english": "geodude",
+    "korean": "꼬마돌"
+  },
+  {
+    "id": 75,
+    "english": "graveler",
+    "korean": "데구리"
+  },
+  {
+    "id": 76,
+    "english": "golem",
+    "korean": "딱구리"
+  },
+  {
+    "id": 77,
+    "english": "ponyta",
+    "korean": "포니타"
+  },
+  {
+    "id": 78,
+    "english": "rapidash",
+    "korean": "날쌩마"
+  },
+  {
+    "id": 79,
+    "english": "slowpoke",
+    "korean": "야돈"
+  },
+  {
+    "id": 80,
+    "english": "slowbro",
+    "korean": "야도란"
+  },
+  {
+    "id": 81,
+    "english": "magnemite",
+    "korean": "코일"
+  },
+  {
+    "id": 82,
+    "english": "magneton",
+    "korean": "레어코일"
+  },
+  {
+    "id": 83,
+    "english": "farfetchd",
+    "korean": "파오리"
+  },
+  {
+    "id": 84,
+    "english": "doduo",
+    "korean": "두두"
+  },
+  {
+    "id": 85,
+    "english": "dodrio",
+    "korean": "두트리오"
+  },
+  {
+    "id": 86,
+    "english": "seel",
+    "korean": "쥬쥬"
+  },
+  {
+    "id": 87,
+    "english": "dewgong",
+    "korean": "쥬레곤"
+  },
+  {
+    "id": 88,
+    "english": "grimer",
+    "korean": "질퍽이"
+  },
+  {
+    "id": 89,
+    "english": "muk",
+    "korean": "질뻐기"
+  },
+  {
+    "id": 90,
+    "english": "shellder",
+    "korean": "셀러"
+  },
+  {
+    "id": 91,
+    "english": "cloyster",
+    "korean": "파르셀"
+  },
+  {
+    "id": 92,
+    "english": "gastly",
+    "korean": "고오스"
+  },
+  {
+    "id": 93,
+    "english": "haunter",
+    "korean": "고우스트"
+  },
+  {
+    "id": 94,
+    "english": "gengar",
+    "korean": "팬텀"
+  },
+  {
+    "id": 95,
+    "english": "onix",
+    "korean": "롱스톤"
+  },
+  {
+    "id": 96,
+    "english": "drowzee",
+    "korean": "슬리프"
+  },
+  {
+    "id": 97,
+    "english": "hypno",
+    "korean": "슬리퍼"
+  },
+  {
+    "id": 98,
+    "english": "krabby",
+    "korean": "크랩"
+  },
+  {
+    "id": 99,
+    "english": "kingler",
+    "korean": "킹크랩"
+  },
+  {
+    "id": 100,
+    "english": "voltorb",
+    "korean": "찌리리공"
+  },
+  {
+    "id": 101,
+    "english": "electrode",
+    "korean": "붐볼"
+  },
+  {
+    "id": 102,
+    "english": "exeggcute",
+    "korean": "아라리"
+  },
+  {
+    "id": 103,
+    "english": "exeggutor",
+    "korean": "나시"
+  },
+  {
+    "id": 104,
+    "english": "cubone",
+    "korean": "탕구리"
+  },
+  {
+    "id": 105,
+    "english": "marowak",
+    "korean": "텅구리"
+  },
+  {
+    "id": 106,
+    "english": "hitmonlee",
+    "korean": "시라소몬"
+  },
+  {
+    "id": 107,
+    "english": "hitmonchan",
+    "korean": "홍수몬"
+  },
+  {
+    "id": 108,
+    "english": "lickitung",
+    "korean": "내루미"
+  },
+  {
+    "id": 109,
+    "english": "koffing",
+    "korean": "또가스"
+  },
+  {
+    "id": 110,
+    "english": "weezing",
+    "korean": "또도가스"
+  },
+  {
+    "id": 111,
+    "english": "rhyhorn",
+    "korean": "뿔카노"
+  },
+  {
+    "id": 112,
+    "english": "rhydon",
+    "korean": "코뿌리"
+  },
+  {
+    "id": 113,
+    "english": "chansey",
+    "korean": "럭키"
+  },
+  {
+    "id": 114,
+    "english": "tangela",
+    "korean": "덩쿠리"
+  },
+  {
+    "id": 115,
+    "english": "kangaskhan",
+    "korean": "캥카"
+  },
+  {
+    "id": 116,
+    "english": "horsea",
+    "korean": "쏘드라"
+  },
+  {
+    "id": 117,
+    "english": "seadra",
+    "korean": "시드라"
+  },
+  {
+    "id": 118,
+    "english": "goldeen",
+    "korean": "콘치"
+  },
+  {
+    "id": 119,
+    "english": "seaking",
+    "korean": "왕콘치"
+  },
+  {
+    "id": 120,
+    "english": "staryu",
+    "korean": "별가사리"
+  },
+  {
+    "id": 121,
+    "english": "starmie",
+    "korean": "아쿠스타"
+  },
+  {
+    "id": 122,
+    "english": "mr-mime",
+    "korean": "마임맨"
+  },
+  {
+    "id": 123,
+    "english": "scyther",
+    "korean": "스라크"
+  },
+  {
+    "id": 124,
+    "english": "jynx",
+    "korean": "루주라"
+  },
+  {
+    "id": 125,
+    "english": "electabuzz",
+    "korean": "에레브"
+  },
+  {
+    "id": 126,
+    "english": "magmar",
+    "korean": "마그마"
+  },
+  {
+    "id": 127,
+    "english": "pinsir",
+    "korean": "쁘사이저"
+  },
+  {
+    "id": 128,
+    "english": "tauros",
+    "korean": "켄타로스"
+  },
+  {
+    "id": 129,
+    "english": "magikarp",
+    "korean": "잉어킹"
+  },
+  {
+    "id": 130,
+    "english": "gyarados",
+    "korean": "갸라도스"
+  },
+  {
+    "id": 131,
+    "english": "lapras",
+    "korean": "라프라스"
+  },
+  {
+    "id": 132,
+    "english": "ditto",
+    "korean": "메타몽"
+  },
+  {
+    "id": 133,
+    "english": "eevee",
+    "korean": "이브이"
+  },
+  {
+    "id": 134,
+    "english": "vaporeon",
+    "korean": "샤미드"
+  },
+  {
+    "id": 135,
+    "english": "jolteon",
+    "korean": "쥬피썬더"
+  },
+  {
+    "id": 136,
+    "english": "flareon",
+    "korean": "부스터"
+  },
+  {
+    "id": 137,
+    "english": "porygon",
+    "korean": "폴리곤"
+  },
+  {
+    "id": 138,
+    "english": "omanyte",
+    "korean": "암나이트"
+  },
+  {
+    "id": 139,
+    "english": "omastar",
+    "korean": "암스타"
+  },
+  {
+    "id": 140,
+    "english": "kabuto",
+    "korean": "투구"
+  },
+  {
+    "id": 141,
+    "english": "kabutops",
+    "korean": "투구푸스"
+  },
+  {
+    "id": 142,
+    "english": "aerodactyl",
+    "korean": "프테라"
+  },
+  {
+    "id": 143,
+    "english": "snorlax",
+    "korean": "잠만보"
+  },
+  {
+    "id": 144,
+    "english": "articuno",
+    "korean": "프리져"
+  },
+  {
+    "id": 145,
+    "english": "zapdos",
+    "korean": "썬더"
+  },
+  {
+    "id": 146,
+    "english": "moltres",
+    "korean": "파이어"
+  },
+  {
+    "id": 147,
+    "english": "dratini",
+    "korean": "미뇽"
+  },
+  {
+    "id": 148,
+    "english": "dragonair",
+    "korean": "신뇽"
+  },
+  {
+    "id": 149,
+    "english": "dragonite",
+    "korean": "망나뇽"
+  },
+  {
+    "id": 150,
+    "english": "mewtwo",
+    "korean": "뮤츠"
+  },
+  {
+    "id": 151,
+    "english": "mew",
+    "korean": "뮤"
+  },
+  {
+    "id": 152,
+    "english": "chikorita",
+    "korean": "치코리타"
+  },
+  {
+    "id": 153,
+    "english": "bayleef",
+    "korean": "베이리프"
+  },
+  {
+    "id": 154,
+    "english": "meganium",
+    "korean": "메가니움"
+  },
+  {
+    "id": 155,
+    "english": "cyndaquil",
+    "korean": "브케인"
+  },
+  {
+    "id": 156,
+    "english": "quilava",
+    "korean": "마그케인"
+  },
+  {
+    "id": 157,
+    "english": "typhlosion",
+    "korean": "블레이범"
+  },
+  {
+    "id": 158,
+    "english": "totodile",
+    "korean": "리아코"
+  },
+  {
+    "id": 159,
+    "english": "croconaw",
+    "korean": "엘리게이"
+  },
+  {
+    "id": 160,
+    "english": "feraligatr",
+    "korean": "장크로다일"
+  },
+  {
+    "id": 161,
+    "english": "sentret",
+    "korean": "꼬리선"
+  },
+  {
+    "id": 162,
+    "english": "furret",
+    "korean": "다꼬리"
+  },
+  {
+    "id": 163,
+    "english": "hoothoot",
+    "korean": "부우부"
+  },
+  {
+    "id": 164,
+    "english": "noctowl",
+    "korean": "야부엉"
+  },
+  {
+    "id": 165,
+    "english": "ledyba",
+    "korean": "레디바"
+  },
+  {
+    "id": 166,
+    "english": "ledian",
+    "korean": "레디안"
+  },
+  {
+    "id": 167,
+    "english": "spinarak",
+    "korean": "페이검"
+  },
+  {
+    "id": 168,
+    "english": "ariados",
+    "korean": "아리아도스"
+  },
+  {
+    "id": 169,
+    "english": "crobat",
+    "korean": "크로뱃"
+  },
+  {
+    "id": 170,
+    "english": "chinchou",
+    "korean": "초라기"
+  },
+  {
+    "id": 171,
+    "english": "lanturn",
+    "korean": "랜턴"
+  },
+  {
+    "id": 172,
+    "english": "pichu",
+    "korean": "피츄"
+  },
+  {
+    "id": 173,
+    "english": "cleffa",
+    "korean": "삐"
+  },
+  {
+    "id": 174,
+    "english": "igglybuff",
+    "korean": "푸푸린"
+  },
+  {
+    "id": 175,
+    "english": "togepi",
+    "korean": "토게피"
+  },
+  {
+    "id": 176,
+    "english": "togetic",
+    "korean": "토게틱"
+  },
+  {
+    "id": 177,
+    "english": "natu",
+    "korean": "네이티"
+  },
+  {
+    "id": 178,
+    "english": "xatu",
+    "korean": "네이티오"
+  },
+  {
+    "id": 179,
+    "english": "mareep",
+    "korean": "메리프"
+  },
+  {
+    "id": 180,
+    "english": "flaaffy",
+    "korean": "보송송"
+  },
+  {
+    "id": 181,
+    "english": "ampharos",
+    "korean": "전룡"
+  },
+  {
+    "id": 182,
+    "english": "bellossom",
+    "korean": "아르코"
+  },
+  {
+    "id": 183,
+    "english": "marill",
+    "korean": "마릴"
+  },
+  {
+    "id": 184,
+    "english": "azumarill",
+    "korean": "마릴리"
+  },
+  {
+    "id": 185,
+    "english": "sudowoodo",
+    "korean": "꼬지모"
+  },
+  {
+    "id": 186,
+    "english": "politoed",
+    "korean": "왕구리"
+  },
+  {
+    "id": 187,
+    "english": "hoppip",
+    "korean": "통통코"
+  },
+  {
+    "id": 188,
+    "english": "skiploom",
+    "korean": "두코"
+  },
+  {
+    "id": 189,
+    "english": "jumpluff",
+    "korean": "솜솜코"
+  },
+  {
+    "id": 190,
+    "english": "aipom",
+    "korean": "에이팜"
+  },
+  {
+    "id": 191,
+    "english": "sunkern",
+    "korean": "해너츠"
+  },
+  {
+    "id": 192,
+    "english": "sunflora",
+    "korean": "해루미"
+  },
+  {
+    "id": 193,
+    "english": "yanma",
+    "korean": "왕자리"
+  },
+  {
+    "id": 194,
+    "english": "wooper",
+    "korean": "우파"
+  },
+  {
+    "id": 195,
+    "english": "quagsire",
+    "korean": "누오"
+  },
+  {
+    "id": 196,
+    "english": "espeon",
+    "korean": "에브이"
+  },
+  {
+    "id": 197,
+    "english": "umbreon",
+    "korean": "블래키"
+  },
+  {
+    "id": 198,
+    "english": "murkrow",
+    "korean": "니로우"
+  },
+  {
+    "id": 199,
+    "english": "slowking",
+    "korean": "야도킹"
+  },
+  {
+    "id": 200,
+    "english": "misdreavus",
+    "korean": "무우마"
+  },
+  {
+    "id": 201,
+    "english": "unown",
+    "korean": "안농"
+  },
+  {
+    "id": 202,
+    "english": "wobbuffet",
+    "korean": "마자용"
+  },
+  {
+    "id": 203,
+    "english": "girafarig",
+    "korean": "키링키"
+  },
+  {
+    "id": 204,
+    "english": "pineco",
+    "korean": "피콘"
+  },
+  {
+    "id": 205,
+    "english": "forretress",
+    "korean": "쏘콘"
+  },
+  {
+    "id": 206,
+    "english": "dunsparce",
+    "korean": "노고치"
+  },
+  {
+    "id": 207,
+    "english": "gligar",
+    "korean": "글라이거"
+  },
+  {
+    "id": 208,
+    "english": "steelix",
+    "korean": "강철톤"
+  },
+  {
+    "id": 209,
+    "english": "snubbull",
+    "korean": "블루"
+  },
+  {
+    "id": 210,
+    "english": "granbull",
+    "korean": "그랑블루"
+  },
+  {
+    "id": 211,
+    "english": "qwilfish",
+    "korean": "침바루"
+  },
+  {
+    "id": 212,
+    "english": "scizor",
+    "korean": "핫삼"
+  },
+  {
+    "id": 213,
+    "english": "shuckle",
+    "korean": "단단지"
+  },
+  {
+    "id": 214,
+    "english": "heracross",
+    "korean": "헤라크로스"
+  },
+  {
+    "id": 215,
+    "english": "sneasel",
+    "korean": "포푸니"
+  },
+  {
+    "id": 216,
+    "english": "teddiursa",
+    "korean": "깜지곰"
+  },
+  {
+    "id": 217,
+    "english": "ursaring",
+    "korean": "링곰"
+  },
+  {
+    "id": 218,
+    "english": "slugma",
+    "korean": "마그마그"
+  },
+  {
+    "id": 219,
+    "english": "magcargo",
+    "korean": "마그카르고"
+  },
+  {
+    "id": 220,
+    "english": "swinub",
+    "korean": "꾸꾸리"
+  },
+  {
+    "id": 221,
+    "english": "piloswine",
+    "korean": "메꾸리"
+  },
+  {
+    "id": 222,
+    "english": "corsola",
+    "korean": "코산호"
+  },
+  {
+    "id": 223,
+    "english": "remoraid",
+    "korean": "총어"
+  },
+  {
+    "id": 224,
+    "english": "octillery",
+    "korean": "대포무노"
+  },
+  {
+    "id": 225,
+    "english": "delibird",
+    "korean": "딜리버드"
+  },
+  {
+    "id": 226,
+    "english": "mantine",
+    "korean": "만타인"
+  },
+  {
+    "id": 227,
+    "english": "skarmory",
+    "korean": "무장조"
+  },
+  {
+    "id": 228,
+    "english": "houndour",
+    "korean": "델빌"
+  },
+  {
+    "id": 229,
+    "english": "houndoom",
+    "korean": "헬가"
+  },
+  {
+    "id": 230,
+    "english": "kingdra",
+    "korean": "킹드라"
+  },
+  {
+    "id": 231,
+    "english": "phanpy",
+    "korean": "코코리"
+  },
+  {
+    "id": 232,
+    "english": "donphan",
+    "korean": "코리갑"
+  },
+  {
+    "id": 233,
+    "english": "porygon2",
+    "korean": "폴리곤2"
+  },
+  {
+    "id": 234,
+    "english": "stantler",
+    "korean": "노라키"
+  },
+  {
+    "id": 235,
+    "english": "smeargle",
+    "korean": "루브도"
+  },
+  {
+    "id": 236,
+    "english": "tyrogue",
+    "korean": "배루키"
+  },
+  {
+    "id": 237,
+    "english": "hitmontop",
+    "korean": "카포에라"
+  },
+  {
+    "id": 238,
+    "english": "smoochum",
+    "korean": "뽀뽀라"
+  },
+  {
+    "id": 239,
+    "english": "elekid",
+    "korean": "에레키드"
+  },
+  {
+    "id": 240,
+    "english": "magby",
+    "korean": "마그비"
+  },
+  {
+    "id": 241,
+    "english": "miltank",
+    "korean": "밀탱크"
+  },
+  {
+    "id": 242,
+    "english": "blissey",
+    "korean": "해피너스"
+  },
+  {
+    "id": 243,
+    "english": "raikou",
+    "korean": "라이코"
+  },
+  {
+    "id": 244,
+    "english": "entei",
+    "korean": "앤테이"
+  },
+  {
+    "id": 245,
+    "english": "suicune",
+    "korean": "스이쿤"
+  },
+  {
+    "id": 246,
+    "english": "larvitar",
+    "korean": "애버라스"
+  },
+  {
+    "id": 247,
+    "english": "pupitar",
+    "korean": "데기라스"
+  },
+  {
+    "id": 248,
+    "english": "tyranitar",
+    "korean": "마기라스"
+  },
+  {
+    "id": 249,
+    "english": "lugia",
+    "korean": "루기아"
+  },
+  {
+    "id": 250,
+    "english": "ho-oh",
+    "korean": "칠색조"
+  },
+  {
+    "id": 251,
+    "english": "celebi",
+    "korean": "세레비"
+  },
+  {
+    "id": 252,
+    "english": "treecko",
+    "korean": "나무지기"
+  },
+  {
+    "id": 253,
+    "english": "grovyle",
+    "korean": "나무돌이"
+  },
+  {
+    "id": 254,
+    "english": "sceptile",
+    "korean": "나무킹"
+  },
+  {
+    "id": 255,
+    "english": "torchic",
+    "korean": "아차모"
+  },
+  {
+    "id": 256,
+    "english": "combusken",
+    "korean": "영치코"
+  },
+  {
+    "id": 257,
+    "english": "blaziken",
+    "korean": "번치코"
+  },
+  {
+    "id": 258,
+    "english": "mudkip",
+    "korean": "물짱이"
+  },
+  {
+    "id": 259,
+    "english": "marshtomp",
+    "korean": "늪짱이"
+  },
+  {
+    "id": 260,
+    "english": "swampert",
+    "korean": "대짱이"
+  },
+  {
+    "id": 261,
+    "english": "poochyena",
+    "korean": "포챠나"
+  },
+  {
+    "id": 262,
+    "english": "mightyena",
+    "korean": "그라에나"
+  },
+  {
+    "id": 263,
+    "english": "zigzagoon",
+    "korean": "지그제구리"
+  },
+  {
+    "id": 264,
+    "english": "linoone",
+    "korean": "직구리"
+  },
+  {
+    "id": 265,
+    "english": "wurmple",
+    "korean": "개무소"
+  },
+  {
+    "id": 266,
+    "english": "silcoon",
+    "korean": "실쿤"
+  },
+  {
+    "id": 267,
+    "english": "beautifly",
+    "korean": "뷰티플라이"
+  },
+  {
+    "id": 268,
+    "english": "cascoon",
+    "korean": "카스쿤"
+  },
+  {
+    "id": 269,
+    "english": "dustox",
+    "korean": "독케일"
+  },
+  {
+    "id": 270,
+    "english": "lotad",
+    "korean": "연꽃몬"
+  },
+  {
+    "id": 271,
+    "english": "lombre",
+    "korean": "로토스"
+  },
+  {
+    "id": 272,
+    "english": "ludicolo",
+    "korean": "로파파"
+  },
+  {
+    "id": 273,
+    "english": "seedot",
+    "korean": "도토링"
+  },
+  {
+    "id": 274,
+    "english": "nuzleaf",
+    "korean": "잎새코"
+  },
+  {
+    "id": 275,
+    "english": "shiftry",
+    "korean": "다탱구"
+  },
+  {
+    "id": 276,
+    "english": "taillow",
+    "korean": "테일로"
+  },
+  {
+    "id": 277,
+    "english": "swellow",
+    "korean": "스왈로"
+  },
+  {
+    "id": 278,
+    "english": "wingull",
+    "korean": "갈모매"
+  },
+  {
+    "id": 279,
+    "english": "pelipper",
+    "korean": "패리퍼"
+  },
+  {
+    "id": 280,
+    "english": "ralts",
+    "korean": "랄토스"
+  },
+  {
+    "id": 281,
+    "english": "kirlia",
+    "korean": "킬리아"
+  },
+  {
+    "id": 282,
+    "english": "gardevoir",
+    "korean": "가디안"
+  },
+  {
+    "id": 283,
+    "english": "surskit",
+    "korean": "비구술"
+  },
+  {
+    "id": 284,
+    "english": "masquerain",
+    "korean": "비나방"
+  },
+  {
+    "id": 285,
+    "english": "shroomish",
+    "korean": "버섯꼬"
+  },
+  {
+    "id": 286,
+    "english": "breloom",
+    "korean": "버섯모"
+  },
+  {
+    "id": 287,
+    "english": "slakoth",
+    "korean": "게을로"
+  },
+  {
+    "id": 288,
+    "english": "vigoroth",
+    "korean": "발바로"
+  },
+  {
+    "id": 289,
+    "english": "slaking",
+    "korean": "게을킹"
+  },
+  {
+    "id": 290,
+    "english": "nincada",
+    "korean": "토중몬"
+  },
+  {
+    "id": 291,
+    "english": "ninjask",
+    "korean": "아이스크"
+  },
+  {
+    "id": 292,
+    "english": "shedinja",
+    "korean": "껍질몬"
+  },
+  {
+    "id": 293,
+    "english": "whismur",
+    "korean": "소곤룡"
+  },
+  {
+    "id": 294,
+    "english": "loudred",
+    "korean": "노공룡"
+  },
+  {
+    "id": 295,
+    "english": "exploud",
+    "korean": "폭음룡"
+  },
+  {
+    "id": 296,
+    "english": "makuhita",
+    "korean": "마크탕"
+  },
+  {
+    "id": 297,
+    "english": "hariyama",
+    "korean": "하리뭉"
+  },
+  {
+    "id": 298,
+    "english": "azurill",
+    "korean": "루리리"
+  },
+  {
+    "id": 299,
+    "english": "nosepass",
+    "korean": "코코파스"
+  },
+  {
+    "id": 300,
+    "english": "skitty",
+    "korean": "에나비"
+  },
+  {
+    "id": 301,
+    "english": "delcatty",
+    "korean": "델케티"
+  },
+  {
+    "id": 302,
+    "english": "sableye",
+    "korean": "깜까미"
+  },
+  {
+    "id": 303,
+    "english": "mawile",
+    "korean": "입치트"
+  },
+  {
+    "id": 304,
+    "english": "aron",
+    "korean": "가보리"
+  },
+  {
+    "id": 305,
+    "english": "lairon",
+    "korean": "갱도라"
+  },
+  {
+    "id": 306,
+    "english": "aggron",
+    "korean": "보스로라"
+  },
+  {
+    "id": 307,
+    "english": "meditite",
+    "korean": "요가랑"
+  },
+  {
+    "id": 308,
+    "english": "medicham",
+    "korean": "요가램"
+  },
+  {
+    "id": 309,
+    "english": "electrike",
+    "korean": "썬더라이"
+  },
+  {
+    "id": 310,
+    "english": "manectric",
+    "korean": "썬더볼트"
+  },
+  {
+    "id": 311,
+    "english": "plusle",
+    "korean": "플러시"
+  },
+  {
+    "id": 312,
+    "english": "minun",
+    "korean": "마이농"
+  },
+  {
+    "id": 313,
+    "english": "volbeat",
+    "korean": "볼비트"
+  },
+  {
+    "id": 314,
+    "english": "illumise",
+    "korean": "네오비트"
+  },
+  {
+    "id": 315,
+    "english": "roselia",
+    "korean": "로젤리아"
+  },
+  {
+    "id": 316,
+    "english": "gulpin",
+    "korean": "꼴깍몬"
+  },
+  {
+    "id": 317,
+    "english": "swalot",
+    "korean": "꿀꺽몬"
+  },
+  {
+    "id": 318,
+    "english": "carvanha",
+    "korean": "샤프니아"
+  },
+  {
+    "id": 319,
+    "english": "sharpedo",
+    "korean": "샤크니아"
+  },
+  {
+    "id": 320,
+    "english": "wailmer",
+    "korean": "고래왕자"
+  },
+  {
+    "id": 321,
+    "english": "wailord",
+    "korean": "고래왕"
+  },
+  {
+    "id": 322,
+    "english": "numel",
+    "korean": "둔타"
+  },
+  {
+    "id": 323,
+    "english": "camerupt",
+    "korean": "폭타"
+  },
+  {
+    "id": 324,
+    "english": "torkoal",
+    "korean": "코터스"
+  },
+  {
+    "id": 325,
+    "english": "spoink",
+    "korean": "피그점프"
+  },
+  {
+    "id": 326,
+    "english": "grumpig",
+    "korean": "피그킹"
+  },
+  {
+    "id": 327,
+    "english": "spinda",
+    "korean": "얼루기"
+  },
+  {
+    "id": 328,
+    "english": "trapinch",
+    "korean": "톱치"
+  },
+  {
+    "id": 329,
+    "english": "vibrava",
+    "korean": "비브라바"
+  },
+  {
+    "id": 330,
+    "english": "flygon",
+    "korean": "플라이곤"
+  },
+  {
+    "id": 331,
+    "english": "cacnea",
+    "korean": "선인왕"
+  },
+  {
+    "id": 332,
+    "english": "cacturne",
+    "korean": "밤선인"
+  },
+  {
+    "id": 333,
+    "english": "swablu",
+    "korean": "파비코"
+  },
+  {
+    "id": 334,
+    "english": "altaria",
+    "korean": "파비코리"
+  },
+  {
+    "id": 335,
+    "english": "zangoose",
+    "korean": "쟝고"
+  },
+  {
+    "id": 336,
+    "english": "seviper",
+    "korean": "세비퍼"
+  },
+  {
+    "id": 337,
+    "english": "lunatone",
+    "korean": "루나톤"
+  },
+  {
+    "id": 338,
+    "english": "solrock",
+    "korean": "솔록"
+  },
+  {
+    "id": 339,
+    "english": "barboach",
+    "korean": "미꾸리"
+  },
+  {
+    "id": 340,
+    "english": "whiscash",
+    "korean": "메깅"
+  },
+  {
+    "id": 341,
+    "english": "corphish",
+    "korean": "가재군"
+  },
+  {
+    "id": 342,
+    "english": "crawdaunt",
+    "korean": "가재장군"
+  },
+  {
+    "id": 343,
+    "english": "baltoy",
+    "korean": "오뚝군"
+  },
+  {
+    "id": 344,
+    "english": "claydol",
+    "korean": "점토도리"
+  },
+  {
+    "id": 345,
+    "english": "lileep",
+    "korean": "릴링"
+  },
+  {
+    "id": 346,
+    "english": "cradily",
+    "korean": "릴리요"
+  },
+  {
+    "id": 347,
+    "english": "anorith",
+    "korean": "아노딥스"
+  },
+  {
+    "id": 348,
+    "english": "armaldo",
+    "korean": "아말도"
+  },
+  {
+    "id": 349,
+    "english": "feebas",
+    "korean": "빈티나"
+  },
+  {
+    "id": 350,
+    "english": "milotic",
+    "korean": "밀로틱"
+  },
+  {
+    "id": 351,
+    "english": "castform",
+    "korean": "캐스퐁"
+  },
+  {
+    "id": 352,
+    "english": "kecleon",
+    "korean": "켈리몬"
+  },
+  {
+    "id": 353,
+    "english": "shuppet",
+    "korean": "어둠대신"
+  },
+  {
+    "id": 354,
+    "english": "banette",
+    "korean": "다크펫"
+  },
+  {
+    "id": 355,
+    "english": "duskull",
+    "korean": "해골몽"
+  },
+  {
+    "id": 356,
+    "english": "dusclops",
+    "korean": "미라몽"
+  },
+  {
+    "id": 357,
+    "english": "tropius",
+    "korean": "트로피우스"
+  },
+  {
+    "id": 358,
+    "english": "chimecho",
+    "korean": "치렁"
+  },
+  {
+    "id": 359,
+    "english": "absol",
+    "korean": "앱솔"
+  },
+  {
+    "id": 360,
+    "english": "wynaut",
+    "korean": "마자"
+  },
+  {
+    "id": 361,
+    "english": "snorunt",
+    "korean": "눈꼬마"
+  },
+  {
+    "id": 362,
+    "english": "glalie",
+    "korean": "얼음귀신"
+  },
+  {
+    "id": 363,
+    "english": "spheal",
+    "korean": "대굴레오"
+  },
+  {
+    "id": 364,
+    "english": "sealeo",
+    "korean": "씨레오"
+  },
+  {
+    "id": 365,
+    "english": "walrein",
+    "korean": "씨카이저"
+  },
+  {
+    "id": 366,
+    "english": "clamperl",
+    "korean": "진주몽"
+  },
+  {
+    "id": 367,
+    "english": "huntail",
+    "korean": "헌테일"
+  },
+  {
+    "id": 368,
+    "english": "gorebyss",
+    "korean": "분홍장이"
+  },
+  {
+    "id": 369,
+    "english": "relicanth",
+    "korean": "시라칸"
+  },
+  {
+    "id": 370,
+    "english": "luvdisc",
+    "korean": "사랑동이"
+  },
+  {
+    "id": 371,
+    "english": "bagon",
+    "korean": "아공이"
+  },
+  {
+    "id": 372,
+    "english": "shelgon",
+    "korean": "쉘곤"
+  },
+  {
+    "id": 373,
+    "english": "salamence",
+    "korean": "보만다"
+  },
+  {
+    "id": 374,
+    "english": "beldum",
+    "korean": "메탕"
+  },
+  {
+    "id": 375,
+    "english": "metang",
+    "korean": "메탕구"
+  },
+  {
+    "id": 376,
+    "english": "metagross",
+    "korean": "메타그로스"
+  },
+  {
+    "id": 377,
+    "english": "regirock",
+    "korean": "레지락"
+  },
+  {
+    "id": 378,
+    "english": "regice",
+    "korean": "레지아이스"
+  },
+  {
+    "id": 379,
+    "english": "registeel",
+    "korean": "레지스틸"
+  },
+  {
+    "id": 380,
+    "english": "latias",
+    "korean": "라티아스"
+  },
+  {
+    "id": 381,
+    "english": "latios",
+    "korean": "라티오스"
+  },
+  {
+    "id": 382,
+    "english": "kyogre",
+    "korean": "가이오가"
+  },
+  {
+    "id": 383,
+    "english": "groudon",
+    "korean": "그란돈"
+  },
+  {
+    "id": 384,
+    "english": "rayquaza",
+    "korean": "레쿠쟈"
+  },
+  {
+    "id": 385,
+    "english": "jirachi",
+    "korean": "지라치"
+  },
+  {
+    "id": 386,
+    "english": "deoxys",
+    "korean": "테오키스"
+  },
+  {
+    "id": 387,
+    "english": "turtwig",
+    "korean": "모부기"
+  },
+  {
+    "id": 388,
+    "english": "grotle",
+    "korean": "수풀부기"
+  },
+  {
+    "id": 389,
+    "english": "torterra",
+    "korean": "토대부기"
+  },
+  {
+    "id": 390,
+    "english": "chimchar",
+    "korean": "불꽃숭이"
+  },
+  {
+    "id": 391,
+    "english": "monferno",
+    "korean": "파이숭이"
+  },
+  {
+    "id": 392,
+    "english": "infernape",
+    "korean": "초염몽"
+  },
+  {
+    "id": 393,
+    "english": "piplup",
+    "korean": "팽도리"
+  },
+  {
+    "id": 394,
+    "english": "prinplup",
+    "korean": "팽태자"
+  },
+  {
+    "id": 395,
+    "english": "empoleon",
+    "korean": "엠페르트"
+  },
+  {
+    "id": 396,
+    "english": "starly",
+    "korean": "찌르꼬"
+  },
+  {
+    "id": 397,
+    "english": "staravia",
+    "korean": "찌르버드"
+  },
+  {
+    "id": 398,
+    "english": "staraptor",
+    "korean": "찌르호크"
+  },
+  {
+    "id": 399,
+    "english": "bidoof",
+    "korean": "비버니"
+  },
+  {
+    "id": 400,
+    "english": "bibarel",
+    "korean": "비버통"
+  },
+  {
+    "id": 401,
+    "english": "kricketot",
+    "korean": "귀뚤뚜기"
+  },
+  {
+    "id": 402,
+    "english": "kricketune",
+    "korean": "귀뚤톡크"
+  },
+  {
+    "id": 403,
+    "english": "shinx",
+    "korean": "꼬링크"
+  },
+  {
+    "id": 404,
+    "english": "luxio",
+    "korean": "럭시오"
+  },
+  {
+    "id": 405,
+    "english": "luxray",
+    "korean": "렌트라"
+  },
+  {
+    "id": 406,
+    "english": "budew",
+    "korean": "꼬몽울"
+  },
+  {
+    "id": 407,
+    "english": "roserade",
+    "korean": "로즈레이드"
+  },
+  {
+    "id": 408,
+    "english": "cranidos",
+    "korean": "두개도스"
+  },
+  {
+    "id": 409,
+    "english": "rampardos",
+    "korean": "램펄드"
+  },
+  {
+    "id": 410,
+    "english": "shieldon",
+    "korean": "방패톱스"
+  },
+  {
+    "id": 411,
+    "english": "bastiodon",
+    "korean": "바리톱스"
+  },
+  {
+    "id": 412,
+    "english": "burmy",
+    "korean": "도롱충이"
+  },
+  {
+    "id": 413,
+    "english": "wormadam",
+    "korean": "도롱마담"
+  },
+  {
+    "id": 414,
+    "english": "mothim",
+    "korean": "나메일"
+  },
+  {
+    "id": 415,
+    "english": "combee",
+    "korean": "세꿀버리"
+  },
+  {
+    "id": 416,
+    "english": "vespiquen",
+    "korean": "비퀸"
+  },
+  {
+    "id": 417,
+    "english": "pachirisu",
+    "korean": "파치리스"
+  },
+  {
+    "id": 418,
+    "english": "buizel",
+    "korean": "브이젤"
+  },
+  {
+    "id": 419,
+    "english": "floatzel",
+    "korean": "플로젤"
+  },
+  {
+    "id": 420,
+    "english": "cherubi",
+    "korean": "체리버"
+  },
+  {
+    "id": 421,
+    "english": "cherrim",
+    "korean": "체리꼬"
+  },
+  {
+    "id": 422,
+    "english": "shellos",
+    "korean": "깝질무"
+  },
+  {
+    "id": 423,
+    "english": "gastrodon",
+    "korean": "트리토돈"
+  },
+  {
+    "id": 424,
+    "english": "ambipom",
+    "korean": "겟핸보숭"
+  },
+  {
+    "id": 425,
+    "english": "drifloon",
+    "korean": "흔들풍손"
+  },
+  {
+    "id": 426,
+    "english": "drifblim",
+    "korean": "둥실라이드"
+  },
+  {
+    "id": 427,
+    "english": "buneary",
+    "korean": "이어롤"
+  },
+  {
+    "id": 428,
+    "english": "lopunny",
+    "korean": "이어롭"
+  },
+  {
+    "id": 429,
+    "english": "mismagius",
+    "korean": "무우마직"
+  },
+  {
+    "id": 430,
+    "english": "honchkrow",
+    "korean": "돈크로우"
+  },
+  {
+    "id": 431,
+    "english": "glameow",
+    "korean": "나옹마"
+  },
+  {
+    "id": 432,
+    "english": "purugly",
+    "korean": "몬냥이"
+  },
+  {
+    "id": 433,
+    "english": "chingling",
+    "korean": "랑딸랑"
+  },
+  {
+    "id": 434,
+    "english": "stunky",
+    "korean": "스컹뿡"
+  },
+  {
+    "id": 435,
+    "english": "skuntank",
+    "korean": "스컹탱크"
+  },
+  {
+    "id": 436,
+    "english": "bronzor",
+    "korean": "동미러"
+  },
+  {
+    "id": 437,
+    "english": "bronzong",
+    "korean": "동탁군"
+  },
+  {
+    "id": 438,
+    "english": "bonsly",
+    "korean": "꼬지지"
+  },
+  {
+    "id": 439,
+    "english": "mime-jr",
+    "korean": "흉내내"
+  },
+  {
+    "id": 440,
+    "english": "happiny",
+    "korean": "핑복"
+  },
+  {
+    "id": 441,
+    "english": "chatot",
+    "korean": "페라페"
+  },
+  {
+    "id": 442,
+    "english": "spiritomb",
+    "korean": "화강돌"
+  },
+  {
+    "id": 443,
+    "english": "gible",
+    "korean": "딥상어동"
+  },
+  {
+    "id": 444,
+    "english": "gabite",
+    "korean": "한바이트"
+  },
+  {
+    "id": 445,
+    "english": "garchomp",
+    "korean": "한카리아스"
+  },
+  {
+    "id": 446,
+    "english": "munchlax",
+    "korean": "먹고자"
+  },
+  {
+    "id": 447,
+    "english": "riolu",
+    "korean": "리오르"
+  },
+  {
+    "id": 448,
+    "english": "lucario",
+    "korean": "루카리오"
+  },
+  {
+    "id": 449,
+    "english": "hippopotas",
+    "korean": "히포포타스"
+  },
+  {
+    "id": 450,
+    "english": "hippowdon",
+    "korean": "하마돈"
+  },
+  {
+    "id": 451,
+    "english": "skorupi",
+    "korean": "스콜피"
+  },
+  {
+    "id": 452,
+    "english": "drapion",
+    "korean": "드래피온"
+  },
+  {
+    "id": 453,
+    "english": "croagunk",
+    "korean": "삐딱구리"
+  },
+  {
+    "id": 454,
+    "english": "toxicroak",
+    "korean": "독개굴"
+  },
+  {
+    "id": 455,
+    "english": "carnivine",
+    "korean": "무스틈니"
+  },
+  {
+    "id": 456,
+    "english": "finneon",
+    "korean": "형광어"
+  },
+  {
+    "id": 457,
+    "english": "lumineon",
+    "korean": "네오라이트"
+  },
+  {
+    "id": 458,
+    "english": "mantyke",
+    "korean": "타만타"
+  },
+  {
+    "id": 459,
+    "english": "snover",
+    "korean": "눈쓰개"
+  },
+  {
+    "id": 460,
+    "english": "abomasnow",
+    "korean": "눈설왕"
+  },
+  {
+    "id": 461,
+    "english": "weavile",
+    "korean": "포푸니라"
+  },
+  {
+    "id": 462,
+    "english": "magnezone",
+    "korean": "자포코일"
+  },
+  {
+    "id": 463,
+    "english": "lickilicky",
+    "korean": "내룸벨트"
+  },
+  {
+    "id": 464,
+    "english": "rhyperior",
+    "korean": "거대코뿌리"
+  },
+  {
+    "id": 465,
+    "english": "tangrowth",
+    "korean": "덩쿠림보"
+  },
+  {
+    "id": 466,
+    "english": "electivire",
+    "korean": "에레키블"
+  },
+  {
+    "id": 467,
+    "english": "magmortar",
+    "korean": "마그마번"
+  },
+  {
+    "id": 468,
+    "english": "togekiss",
+    "korean": "토게키스"
+  },
+  {
+    "id": 469,
+    "english": "yanmega",
+    "korean": "메가자리"
+  },
+  {
+    "id": 470,
+    "english": "leafeon",
+    "korean": "리피아"
+  },
+  {
+    "id": 471,
+    "english": "glaceon",
+    "korean": "글레이시아"
+  },
+  {
+    "id": 472,
+    "english": "gliscor",
+    "korean": "글라이온"
+  },
+  {
+    "id": 473,
+    "english": "mamoswine",
+    "korean": "맘모꾸리"
+  },
+  {
+    "id": 474,
+    "english": "porygon-z",
+    "korean": "폴리곤Z"
+  },
+  {
+    "id": 475,
+    "english": "gallade",
+    "korean": "엘레이드"
+  },
+  {
+    "id": 476,
+    "english": "probopass",
+    "korean": "대코파스"
+  },
+  {
+    "id": 477,
+    "english": "dusknoir",
+    "korean": "야느와르몽"
+  },
+  {
+    "id": 478,
+    "english": "froslass",
+    "korean": "눈여아"
+  },
+  {
+    "id": 479,
+    "english": "rotom",
+    "korean": "로토무"
+  },
+  {
+    "id": 480,
+    "english": "uxie",
+    "korean": "유크시"
+  },
+  {
+    "id": 481,
+    "english": "mesprit",
+    "korean": "엠라이트"
+  },
+  {
+    "id": 482,
+    "english": "azelf",
+    "korean": "아그놈"
+  },
+  {
+    "id": 483,
+    "english": "dialga",
+    "korean": "디아루가"
+  },
+  {
+    "id": 484,
+    "english": "palkia",
+    "korean": "펄기아"
+  },
+  {
+    "id": 485,
+    "english": "heatran",
+    "korean": "히드런"
+  },
+  {
+    "id": 486,
+    "english": "regigigas",
+    "korean": "레지기가스"
+  },
+  {
+    "id": 487,
+    "english": "giratina",
+    "korean": "기라티나"
+  },
+  {
+    "id": 488,
+    "english": "cresselia",
+    "korean": "크레세리아"
+  },
+  {
+    "id": 489,
+    "english": "phione",
+    "korean": "피오네"
+  },
+  {
+    "id": 490,
+    "english": "manaphy",
+    "korean": "마나피"
+  },
+  {
+    "id": 491,
+    "english": "darkrai",
+    "korean": "다크라이"
+  },
+  {
+    "id": 492,
+    "english": "shaymin",
+    "korean": "쉐이미"
+  },
+  {
+    "id": 493,
+    "english": "arceus",
+    "korean": "아르세우스"
+  },
+  {
+    "id": 494,
+    "english": "victini",
+    "korean": "비크티니"
+  },
+  {
+    "id": 495,
+    "english": "snivy",
+    "korean": "주리비얀"
+  },
+  {
+    "id": 496,
+    "english": "servine",
+    "korean": "샤비"
+  },
+  {
+    "id": 497,
+    "english": "serperior",
+    "korean": "샤로다"
+  },
+  {
+    "id": 498,
+    "english": "tepig",
+    "korean": "뚜꾸리"
+  },
+  {
+    "id": 499,
+    "english": "pignite",
+    "korean": "차오꿀"
+  },
+  {
+    "id": 500,
+    "english": "emboar",
+    "korean": "염무왕"
+  },
+  {
+    "id": 501,
+    "english": "oshawott",
+    "korean": "수댕이"
+  },
+  {
+    "id": 502,
+    "english": "dewott",
+    "korean": "쌍검자비"
+  },
+  {
+    "id": 503,
+    "english": "samurott",
+    "korean": "대검귀"
+  },
+  {
+    "id": 504,
+    "english": "patrat",
+    "korean": "보르쥐"
+  },
+  {
+    "id": 505,
+    "english": "watchog",
+    "korean": "보르그"
+  },
+  {
+    "id": 506,
+    "english": "lillipup",
+    "korean": "요테리"
+  },
+  {
+    "id": 507,
+    "english": "herdier",
+    "korean": "하데리어"
+  },
+  {
+    "id": 508,
+    "english": "stoutland",
+    "korean": "바랜드"
+  },
+  {
+    "id": 509,
+    "english": "purrloin",
+    "korean": "쌔비냥"
+  },
+  {
+    "id": 510,
+    "english": "liepard",
+    "korean": "레파르다스"
+  },
+  {
+    "id": 511,
+    "english": "pansage",
+    "korean": "야나프"
+  },
+  {
+    "id": 512,
+    "english": "simisage",
+    "korean": "야나키"
+  },
+  {
+    "id": 513,
+    "english": "pansear",
+    "korean": "바오프"
+  },
+  {
+    "id": 514,
+    "english": "simisear",
+    "korean": "바오키"
+  },
+  {
+    "id": 515,
+    "english": "panpour",
+    "korean": "앗차프"
+  },
+  {
+    "id": 516,
+    "english": "simipour",
+    "korean": "앗차키"
+  },
+  {
+    "id": 517,
+    "english": "munna",
+    "korean": "몽나"
+  },
+  {
+    "id": 518,
+    "english": "musharna",
+    "korean": "몽얌나"
+  },
+  {
+    "id": 519,
+    "english": "pidove",
+    "korean": "콩둘기"
+  },
+  {
+    "id": 520,
+    "english": "tranquill",
+    "korean": "유토브"
+  },
+  {
+    "id": 521,
+    "english": "unfezant",
+    "korean": "켄호로우"
+  },
+  {
+    "id": 522,
+    "english": "blitzle",
+    "korean": "줄뮤마"
+  },
+  {
+    "id": 523,
+    "english": "zebstrika",
+    "korean": "제브라이카"
+  },
+  {
+    "id": 524,
+    "english": "roggenrola",
+    "korean": "단굴"
+  },
+  {
+    "id": 525,
+    "english": "boldore",
+    "korean": "암트르"
+  },
+  {
+    "id": 526,
+    "english": "gigalith",
+    "korean": "기가이어스"
+  },
+  {
+    "id": 527,
+    "english": "woobat",
+    "korean": "또르박쥐"
+  },
+  {
+    "id": 528,
+    "english": "swoobat",
+    "korean": "맘박쥐"
+  },
+  {
+    "id": 529,
+    "english": "drilbur",
+    "korean": "두더류"
+  },
+  {
+    "id": 530,
+    "english": "excadrill",
+    "korean": "몰드류"
+  },
+  {
+    "id": 531,
+    "english": "audino",
+    "korean": "다부니"
+  },
+  {
+    "id": 532,
+    "english": "timburr",
+    "korean": "으랏차"
+  },
+  {
+    "id": 533,
+    "english": "gurdurr",
+    "korean": "토쇠골"
+  },
+  {
+    "id": 534,
+    "english": "conkeldurr",
+    "korean": "노보청"
+  },
+  {
+    "id": 535,
+    "english": "tympole",
+    "korean": "동챙이"
+  },
+  {
+    "id": 536,
+    "english": "palpitoad",
+    "korean": "두까비"
+  },
+  {
+    "id": 537,
+    "english": "seismitoad",
+    "korean": "두빅굴"
+  },
+  {
+    "id": 538,
+    "english": "throh",
+    "korean": "던지미"
+  },
+  {
+    "id": 539,
+    "english": "sawk",
+    "korean": "타격귀"
+  },
+  {
+    "id": 540,
+    "english": "sewaddle",
+    "korean": "두르보"
+  },
+  {
+    "id": 541,
+    "english": "swadloon",
+    "korean": "두르쿤"
+  },
+  {
+    "id": 542,
+    "english": "leavanny",
+    "korean": "모아머"
+  },
+  {
+    "id": 543,
+    "english": "venipede",
+    "korean": "마디네"
+  },
+  {
+    "id": 544,
+    "english": "whirlipede",
+    "korean": "휠구"
+  },
+  {
+    "id": 545,
+    "english": "scolipede",
+    "korean": "펜드라"
+  },
+  {
+    "id": 546,
+    "english": "cottonee",
+    "korean": "소미안"
+  },
+  {
+    "id": 547,
+    "english": "whimsicott",
+    "korean": "엘풍"
+  },
+  {
+    "id": 548,
+    "english": "petilil",
+    "korean": "치릴리"
+  },
+  {
+    "id": 549,
+    "english": "lilligant",
+    "korean": "드레디어"
+  },
+  {
+    "id": 550,
+    "english": "basculin",
+    "korean": "배쓰나이"
+  },
+  {
+    "id": 551,
+    "english": "sandile",
+    "korean": "깜눈크"
+  },
+  {
+    "id": 552,
+    "english": "krokorok",
+    "korean": "악비르"
+  },
+  {
+    "id": 553,
+    "english": "krookodile",
+    "korean": "악비아르"
+  },
+  {
+    "id": 554,
+    "english": "darumaka",
+    "korean": "달막화"
+  },
+  {
+    "id": 555,
+    "english": "darmanitan",
+    "korean": "불비달마"
+  },
+  {
+    "id": 556,
+    "english": "maractus",
+    "korean": "마라카치"
+  },
+  {
+    "id": 557,
+    "english": "dwebble",
+    "korean": "돌살이"
+  },
+  {
+    "id": 558,
+    "english": "crustle",
+    "korean": "암팰리스"
+  },
+  {
+    "id": 559,
+    "english": "scraggy",
+    "korean": "곤율랭"
+  },
+  {
+    "id": 560,
+    "english": "scrafty",
+    "korean": "곤율거니"
+  },
+  {
+    "id": 561,
+    "english": "sigilyph",
+    "korean": "심보러"
+  },
+  {
+    "id": 562,
+    "english": "yamask",
+    "korean": "데스마스"
+  },
+  {
+    "id": 563,
+    "english": "cofagrigus",
+    "korean": "데스니칸"
+  },
+  {
+    "id": 564,
+    "english": "tirtouga",
+    "korean": "프로토가"
+  },
+  {
+    "id": 565,
+    "english": "carracosta",
+    "korean": "늑골라"
+  },
+  {
+    "id": 566,
+    "english": "archen",
+    "korean": "아켄"
+  },
+  {
+    "id": 567,
+    "english": "archeops",
+    "korean": "아케오스"
+  },
+  {
+    "id": 568,
+    "english": "trubbish",
+    "korean": "깨봉이"
+  },
+  {
+    "id": 569,
+    "english": "garbodor",
+    "korean": "더스트나"
+  },
+  {
+    "id": 570,
+    "english": "zorua",
+    "korean": "조로아"
+  },
+  {
+    "id": 571,
+    "english": "zoroark",
+    "korean": "조로아크"
+  },
+  {
+    "id": 572,
+    "english": "minccino",
+    "korean": "치라미"
+  },
+  {
+    "id": 573,
+    "english": "cinccino",
+    "korean": "치라치노"
+  },
+  {
+    "id": 574,
+    "english": "gothita",
+    "korean": "고디탱"
+  },
+  {
+    "id": 575,
+    "english": "gothorita",
+    "korean": "고디보미"
+  },
+  {
+    "id": 576,
+    "english": "gothitelle",
+    "korean": "고디모아젤"
+  },
+  {
+    "id": 577,
+    "english": "solosis",
+    "korean": "유니란"
+  },
+  {
+    "id": 578,
+    "english": "duosion",
+    "korean": "듀란"
+  },
+  {
+    "id": 579,
+    "english": "reuniclus",
+    "korean": "란쿨루스"
+  },
+  {
+    "id": 580,
+    "english": "ducklett",
+    "korean": "꼬지보리"
+  },
+  {
+    "id": 581,
+    "english": "swanna",
+    "korean": "스완나"
+  },
+  {
+    "id": 582,
+    "english": "vanillite",
+    "korean": "바닐프티"
+  },
+  {
+    "id": 583,
+    "english": "vanillish",
+    "korean": "바닐리치"
+  },
+  {
+    "id": 584,
+    "english": "vanilluxe",
+    "korean": "배바닐라"
+  },
+  {
+    "id": 585,
+    "english": "deerling",
+    "korean": "사철록"
+  },
+  {
+    "id": 586,
+    "english": "sawsbuck",
+    "korean": "바라철록"
+  },
+  {
+    "id": 587,
+    "english": "emolga",
+    "korean": "에몽가"
+  },
+  {
+    "id": 588,
+    "english": "karrablast",
+    "korean": "딱정곤"
+  },
+  {
+    "id": 589,
+    "english": "escavalier",
+    "korean": "슈바르고"
+  },
+  {
+    "id": 590,
+    "english": "foongus",
+    "korean": "깜놀버슬"
+  },
+  {
+    "id": 591,
+    "english": "amoonguss",
+    "korean": "뽀록나"
+  },
+  {
+    "id": 592,
+    "english": "frillish",
+    "korean": "탱그릴"
+  },
+  {
+    "id": 593,
+    "english": "jellicent",
+    "korean": "탱탱겔"
+  },
+  {
+    "id": 594,
+    "english": "alomomola",
+    "korean": "맘복치"
+  },
+  {
+    "id": 595,
+    "english": "joltik",
+    "korean": "파쪼옥"
+  },
+  {
+    "id": 596,
+    "english": "galvantula",
+    "korean": "전툴라"
+  },
+  {
+    "id": 597,
+    "english": "ferroseed",
+    "korean": "철시드"
+  },
+  {
+    "id": 598,
+    "english": "ferrothorn",
+    "korean": "너트령"
+  },
+  {
+    "id": 599,
+    "english": "klink",
+    "korean": "기어르"
+  },
+  {
+    "id": 600,
+    "english": "klang",
+    "korean": "기기어르"
+  },
+  {
+    "id": 601,
+    "english": "klinklang",
+    "korean": "기기기어르"
+  },
+  {
+    "id": 602,
+    "english": "tynamo",
+    "korean": "저리어"
+  },
+  {
+    "id": 603,
+    "english": "eelektrik",
+    "korean": "저리릴"
+  },
+  {
+    "id": 604,
+    "english": "eelektross",
+    "korean": "저리더프"
+  },
+  {
+    "id": 605,
+    "english": "elgyem",
+    "korean": "리그레"
+  },
+  {
+    "id": 606,
+    "english": "beheeyem",
+    "korean": "벰크"
+  },
+  {
+    "id": 607,
+    "english": "litwick",
+    "korean": "불켜미"
+  },
+  {
+    "id": 608,
+    "english": "lampent",
+    "korean": "램프라"
+  },
+  {
+    "id": 609,
+    "english": "chandelure",
+    "korean": "샹델라"
+  },
+  {
+    "id": 610,
+    "english": "axew",
+    "korean": "터검니"
+  },
+  {
+    "id": 611,
+    "english": "fraxure",
+    "korean": "액슨도"
+  },
+  {
+    "id": 612,
+    "english": "haxorus",
+    "korean": "액스라이즈"
+  },
+  {
+    "id": 613,
+    "english": "cubchoo",
+    "korean": "코고미"
+  },
+  {
+    "id": 614,
+    "english": "beartic",
+    "korean": "툰베어"
+  },
+  {
+    "id": 615,
+    "english": "cryogonal",
+    "korean": "프리지오"
+  },
+  {
+    "id": 616,
+    "english": "shelmet",
+    "korean": "쪼마리"
+  },
+  {
+    "id": 617,
+    "english": "accelgor",
+    "korean": "어지리더"
+  },
+  {
+    "id": 618,
+    "english": "stunfisk",
+    "korean": "메더"
+  },
+  {
+    "id": 619,
+    "english": "mienfoo",
+    "korean": "비조푸"
+  },
+  {
+    "id": 620,
+    "english": "mienshao",
+    "korean": "비조도"
+  },
+  {
+    "id": 621,
+    "english": "druddigon",
+    "korean": "크리만"
+  },
+  {
+    "id": 622,
+    "english": "golett",
+    "korean": "골비람"
+  },
+  {
+    "id": 623,
+    "english": "golurk",
+    "korean": "골루그"
+  },
+  {
+    "id": 624,
+    "english": "pawniard",
+    "korean": "자망칼"
+  },
+  {
+    "id": 625,
+    "english": "bisharp",
+    "korean": "절각참"
+  },
+  {
+    "id": 626,
+    "english": "bouffalant",
+    "korean": "버프론"
+  },
+  {
+    "id": 627,
+    "english": "rufflet",
+    "korean": "수리둥보"
+  },
+  {
+    "id": 628,
+    "english": "braviary",
+    "korean": "워글"
+  },
+  {
+    "id": 629,
+    "english": "vullaby",
+    "korean": "벌차이"
+  },
+  {
+    "id": 630,
+    "english": "mandibuzz",
+    "korean": "버랜지나"
+  },
+  {
+    "id": 631,
+    "english": "heatmor",
+    "korean": "앤티골"
+  },
+  {
+    "id": 632,
+    "english": "durant",
+    "korean": "아이앤트"
+  },
+  {
+    "id": 633,
+    "english": "deino",
+    "korean": "모노두"
+  },
+  {
+    "id": 634,
+    "english": "zweilous",
+    "korean": "디헤드"
+  },
+  {
+    "id": 635,
+    "english": "hydreigon",
+    "korean": "삼삼드래"
+  },
+  {
+    "id": 636,
+    "english": "larvesta",
+    "korean": "활화르바"
+  },
+  {
+    "id": 637,
+    "english": "volcarona",
+    "korean": "불카모스"
+  },
+  {
+    "id": 638,
+    "english": "cobalion",
+    "korean": "코바르온"
+  },
+  {
+    "id": 639,
+    "english": "terrakion",
+    "korean": "테라키온"
+  },
+  {
+    "id": 640,
+    "english": "virizion",
+    "korean": "비리디온"
+  },
+  {
+    "id": 641,
+    "english": "tornadus",
+    "korean": "토네로스"
+  },
+  {
+    "id": 642,
+    "english": "thundurus",
+    "korean": "볼트로스"
+  },
+  {
+    "id": 643,
+    "english": "reshiram",
+    "korean": "레시라무"
+  },
+  {
+    "id": 644,
+    "english": "zekrom",
+    "korean": "제크로무"
+  },
+  {
+    "id": 645,
+    "english": "landorus",
+    "korean": "랜드로스"
+  },
+  {
+    "id": 646,
+    "english": "kyurem",
+    "korean": "큐레무"
+  },
+  {
+    "id": 647,
+    "english": "keldeo",
+    "korean": "케르디오"
+  },
+  {
+    "id": 648,
+    "english": "meloetta",
+    "korean": "메로엣타"
+  },
+  {
+    "id": 649,
+    "english": "genesect",
+    "korean": "게노세크트"
+  },
+  {
+    "id": 650,
+    "english": "chespin",
+    "korean": "도치마론"
+  },
+  {
+    "id": 651,
+    "english": "quilladin",
+    "korean": "도치보구"
+  },
+  {
+    "id": 652,
+    "english": "chesnaught",
+    "korean": "브리가론"
+  },
+  {
+    "id": 653,
+    "english": "fennekin",
+    "korean": "푸호꼬"
+  },
+  {
+    "id": 654,
+    "english": "braixen",
+    "korean": "테르나"
+  },
+  {
+    "id": 655,
+    "english": "delphox",
+    "korean": "마폭시"
+  },
+  {
+    "id": 656,
+    "english": "froakie",
+    "korean": "개구마르"
+  },
+  {
+    "id": 657,
+    "english": "frogadier",
+    "korean": "개굴반장"
+  },
+  {
+    "id": 658,
+    "english": "greninja",
+    "korean": "개굴닌자"
+  },
+  {
+    "id": 659,
+    "english": "bunnelby",
+    "korean": "파르빗"
+  },
+  {
+    "id": 660,
+    "english": "diggersby",
+    "korean": "파르토"
+  },
+  {
+    "id": 661,
+    "english": "fletchling",
+    "korean": "화살꼬빈"
+  },
+  {
+    "id": 662,
+    "english": "fletchinder",
+    "korean": "불화살빈"
+  },
+  {
+    "id": 663,
+    "english": "talonflame",
+    "korean": "파이어로"
+  },
+  {
+    "id": 664,
+    "english": "scatterbug",
+    "korean": "분이벌레"
+  },
+  {
+    "id": 665,
+    "english": "spewpa",
+    "korean": "분떠도리"
+  },
+  {
+    "id": 666,
+    "english": "vivillon",
+    "korean": "비비용"
+  },
+  {
+    "id": 667,
+    "english": "litleo",
+    "korean": "레오꼬"
+  },
+  {
+    "id": 668,
+    "english": "pyroar",
+    "korean": "화염레오"
+  },
+  {
+    "id": 669,
+    "english": "flabebe",
+    "korean": "플라베베"
+  },
+  {
+    "id": 670,
+    "english": "floette",
+    "korean": "플라엣테"
+  },
+  {
+    "id": 671,
+    "english": "florges",
+    "korean": "플라제스"
+  },
+  {
+    "id": 672,
+    "english": "skiddo",
+    "korean": "메이클"
+  },
+  {
+    "id": 673,
+    "english": "gogoat",
+    "korean": "고고트"
+  },
+  {
+    "id": 674,
+    "english": "pancham",
+    "korean": "판짱"
+  },
+  {
+    "id": 675,
+    "english": "pangoro",
+    "korean": "부란다"
+  },
+  {
+    "id": 676,
+    "english": "furfrou",
+    "korean": "트리미앙"
+  },
+  {
+    "id": 677,
+    "english": "espurr",
+    "korean": "냐스퍼"
+  },
+  {
+    "id": 678,
+    "english": "meowstic",
+    "korean": "냐오닉스"
+  },
+  {
+    "id": 679,
+    "english": "honedge",
+    "korean": "단칼빙"
+  },
+  {
+    "id": 680,
+    "english": "doublade",
+    "korean": "쌍검킬"
+  },
+  {
+    "id": 681,
+    "english": "aegislash",
+    "korean": "킬가르도"
+  },
+  {
+    "id": 682,
+    "english": "spritzee",
+    "korean": "슈쁘"
+  },
+  {
+    "id": 683,
+    "english": "aromatisse",
+    "korean": "프레프티르"
+  },
+  {
+    "id": 684,
+    "english": "swirlix",
+    "korean": "나룸퍼프"
+  },
+  {
+    "id": 685,
+    "english": "slurpuff",
+    "korean": "나루림"
+  },
+  {
+    "id": 686,
+    "english": "inkay",
+    "korean": "오케이징"
+  },
+  {
+    "id": 687,
+    "english": "malamar",
+    "korean": "칼라마네로"
+  },
+  {
+    "id": 688,
+    "english": "binacle",
+    "korean": "거북손손"
+  },
+  {
+    "id": 689,
+    "english": "barbaracle",
+    "korean": "거북손데스"
+  },
+  {
+    "id": 690,
+    "english": "skrelp",
+    "korean": "수레기"
+  },
+  {
+    "id": 691,
+    "english": "dragalge",
+    "korean": "드래캄"
+  },
+  {
+    "id": 692,
+    "english": "clauncher",
+    "korean": "완철포"
+  },
+  {
+    "id": 693,
+    "english": "clawitzer",
+    "korean": "블로스터"
+  },
+  {
+    "id": 694,
+    "english": "helioptile",
+    "korean": "목도리키텔"
+  },
+  {
+    "id": 695,
+    "english": "heliolisk",
+    "korean": "일레도리자드"
+  },
+  {
+    "id": 696,
+    "english": "tyrunt",
+    "korean": "티고라스"
+  },
+  {
+    "id": 697,
+    "english": "tyrantrum",
+    "korean": "견고라스"
+  },
+  {
+    "id": 698,
+    "english": "amaura",
+    "korean": "아마루스"
+  },
+  {
+    "id": 699,
+    "english": "aurorus",
+    "korean": "아마루르가"
+  },
+  {
+    "id": 700,
+    "english": "sylveon",
+    "korean": "님피아"
+  },
+  {
+    "id": 701,
+    "english": "hawlucha",
+    "korean": "루차불"
+  },
+  {
+    "id": 702,
+    "english": "dedenne",
+    "korean": "데덴네"
+  },
+  {
+    "id": 703,
+    "english": "carbink",
+    "korean": "멜리시"
+  },
+  {
+    "id": 704,
+    "english": "goomy",
+    "korean": "미끄메라"
+  },
+  {
+    "id": 705,
+    "english": "sliggoo",
+    "korean": "미끄네일"
+  },
+  {
+    "id": 706,
+    "english": "goodra",
+    "korean": "미끄래곤"
+  },
+  {
+    "id": 707,
+    "english": "klefki",
+    "korean": "클레피"
+  },
+  {
+    "id": 708,
+    "english": "phantump",
+    "korean": "나목령"
+  },
+  {
+    "id": 709,
+    "english": "trevenant",
+    "korean": "대로트"
+  },
+  {
+    "id": 710,
+    "english": "pumpkaboo",
+    "korean": "호바귀"
+  },
+  {
+    "id": 711,
+    "english": "gourgeist",
+    "korean": "펌킨인"
+  },
+  {
+    "id": 712,
+    "english": "bergmite",
+    "korean": "꽁어름"
+  },
+  {
+    "id": 713,
+    "english": "avalugg",
+    "korean": "크레베이스"
+  },
+  {
+    "id": 714,
+    "english": "noibat",
+    "korean": "음뱃"
+  },
+  {
+    "id": 715,
+    "english": "noivern",
+    "korean": "음번"
+  },
+  {
+    "id": 716,
+    "english": "xerneas",
+    "korean": "제르네아스"
+  },
+  {
+    "id": 717,
+    "english": "yveltal",
+    "korean": "이벨타르"
+  },
+  {
+    "id": 718,
+    "english": "zygarde",
+    "korean": "지가르데"
+  },
+  {
+    "id": 719,
+    "english": "diancie",
+    "korean": "디안시"
+  },
+  {
+    "id": 720,
+    "english": "hoopa",
+    "korean": "후파"
+  },
+  {
+    "id": 721,
+    "english": "volcanion",
+    "korean": "볼케니온"
+  },
+  {
+    "id": 722,
+    "english": "rowlet",
+    "korean": "나몰빼미"
+  },
+  {
+    "id": 723,
+    "english": "dartrix",
+    "korean": "빼미스로우"
+  },
+  {
+    "id": 724,
+    "english": "decidueye",
+    "korean": "모크나이퍼"
+  },
+  {
+    "id": 725,
+    "english": "litten",
+    "korean": "냐오불"
+  },
+  {
+    "id": 726,
+    "english": "torracat",
+    "korean": "냐오히트"
+  },
+  {
+    "id": 727,
+    "english": "incineroar",
+    "korean": "어흥염"
+  },
+  {
+    "id": 728,
+    "english": "popplio",
+    "korean": "누리공"
+  },
+  {
+    "id": 729,
+    "english": "brionne",
+    "korean": "키요공"
+  },
+  {
+    "id": 730,
+    "english": "primarina",
+    "korean": "누리레느"
+  },
+  {
+    "id": 731,
+    "english": "pikipek",
+    "korean": "콕코구리"
+  },
+  {
+    "id": 732,
+    "english": "trumbeak",
+    "korean": "크라파"
+  },
+  {
+    "id": 733,
+    "english": "toucannon",
+    "korean": "왕큰부리"
+  },
+  {
+    "id": 734,
+    "english": "yungoos",
+    "korean": "영구스"
+  },
+  {
+    "id": 735,
+    "english": "gumshoos",
+    "korean": "형사구스"
+  },
+  {
+    "id": 736,
+    "english": "grubbin",
+    "korean": "턱지충이"
+  },
+  {
+    "id": 737,
+    "english": "charjabug",
+    "korean": "전지충이"
+  },
+  {
+    "id": 738,
+    "english": "vikavolt",
+    "korean": "투구뿌논"
+  },
+  {
+    "id": 739,
+    "english": "crabrawler",
+    "korean": "오기지게"
+  },
+  {
+    "id": 740,
+    "english": "crabominable",
+    "korean": "모단단게"
+  },
+  {
+    "id": 741,
+    "english": "oricorio",
+    "korean": "춤추새"
+  },
+  {
+    "id": 742,
+    "english": "cutiefly",
+    "korean": "에블리"
+  },
+  {
+    "id": 743,
+    "english": "ribombee",
+    "korean": "에리본"
+  },
+  {
+    "id": 744,
+    "english": "rockruff",
+    "korean": "암멍이"
+  },
+  {
+    "id": 745,
+    "english": "lycanroc",
+    "korean": "루가루암"
+  },
+  {
+    "id": 746,
+    "english": "wishiwashi",
+    "korean": "약어리"
+  },
+  {
+    "id": 747,
+    "english": "mareanie",
+    "korean": "시마사리"
+  },
+  {
+    "id": 748,
+    "english": "toxapex",
+    "korean": "더시마사리"
+  },
+  {
+    "id": 749,
+    "english": "mudbray",
+    "korean": "머드나기"
+  },
+  {
+    "id": 750,
+    "english": "mudsdale",
+    "korean": "만마드"
+  },
+  {
+    "id": 751,
+    "english": "dewpider",
+    "korean": "물거미"
+  },
+  {
+    "id": 752,
+    "english": "araquanid",
+    "korean": "깨비물거미"
+  },
+  {
+    "id": 753,
+    "english": "fomantis",
+    "korean": "짜랑랑"
+  },
+  {
+    "id": 754,
+    "english": "lurantis",
+    "korean": "라란티스"
+  },
+  {
+    "id": 755,
+    "english": "morelull",
+    "korean": "자마슈"
+  },
+  {
+    "id": 756,
+    "english": "shiinotic",
+    "korean": "마셰이드"
+  },
+  {
+    "id": 757,
+    "english": "salandit",
+    "korean": "야도뇽"
+  },
+  {
+    "id": 758,
+    "english": "salazzle",
+    "korean": "염뉴트"
+  },
+  {
+    "id": 759,
+    "english": "stufful",
+    "korean": "포곰곰"
+  },
+  {
+    "id": 760,
+    "english": "bewear",
+    "korean": "이븐곰"
+  },
+  {
+    "id": 761,
+    "english": "bounsweet",
+    "korean": "달콤아"
+  },
+  {
+    "id": 762,
+    "english": "steenee",
+    "korean": "달무리나"
+  },
+  {
+    "id": 763,
+    "english": "tsareena",
+    "korean": "달코퀸"
+  },
+  {
+    "id": 764,
+    "english": "comfey",
+    "korean": "큐아링"
+  },
+  {
+    "id": 765,
+    "english": "oranguru",
+    "korean": "하랑우탄"
+  },
+  {
+    "id": 766,
+    "english": "passimian",
+    "korean": "내던숭이"
+  },
+  {
+    "id": 767,
+    "english": "wimpod",
+    "korean": "꼬시레"
+  },
+  {
+    "id": 768,
+    "english": "golisopod",
+    "korean": "갑주무사"
+  },
+  {
+    "id": 769,
+    "english": "sandygast",
+    "korean": "모래꿍"
+  },
+  {
+    "id": 770,
+    "english": "palossand",
+    "korean": "모래성이당"
+  },
+  {
+    "id": 771,
+    "english": "pyukumuku",
+    "korean": "해무기"
+  },
+  {
+    "id": 772,
+    "english": "type-null",
+    "korean": "타입:널"
+  },
+  {
+    "id": 773,
+    "english": "silvally",
+    "korean": "실버디"
+  },
+  {
+    "id": 774,
+    "english": "minior",
+    "korean": "메테노"
+  },
+  {
+    "id": 775,
+    "english": "komala",
+    "korean": "자말라"
+  },
+  {
+    "id": 776,
+    "english": "turtonator",
+    "korean": "폭거북스"
+  },
+  {
+    "id": 777,
+    "english": "togedemaru",
+    "korean": "토게데마루"
+  },
+  {
+    "id": 778,
+    "english": "mimikyu",
+    "korean": "따라큐"
+  },
+  {
+    "id": 779,
+    "english": "bruxish",
+    "korean": "치갈기"
+  },
+  {
+    "id": 780,
+    "english": "drampa",
+    "korean": "할비롱"
+  },
+  {
+    "id": 781,
+    "english": "dhelmise",
+    "korean": "타타륜"
+  },
+  {
+    "id": 782,
+    "english": "jangmo-o",
+    "korean": "짜랑꼬"
+  },
+  {
+    "id": 783,
+    "english": "hakamo-o",
+    "korean": "짜랑고우"
+  },
+  {
+    "id": 784,
+    "english": "kommo-o",
+    "korean": "짜랑고우거"
+  },
+  {
+    "id": 785,
+    "english": "tapu-koko",
+    "korean": "카푸꼬꼬꼭"
+  },
+  {
+    "id": 786,
+    "english": "tapu-lele",
+    "korean": "카푸나비나"
+  },
+  {
+    "id": 787,
+    "english": "tapu-bulu",
+    "korean": "카푸브루루"
+  },
+  {
+    "id": 788,
+    "english": "tapu-fini",
+    "korean": "카푸느지느"
+  },
+  {
+    "id": 789,
+    "english": "cosmog",
+    "korean": "코스모그"
+  },
+  {
+    "id": 790,
+    "english": "cosmoem",
+    "korean": "코스모움"
+  },
+  {
+    "id": 791,
+    "english": "solgaleo",
+    "korean": "솔가레오"
+  },
+  {
+    "id": 792,
+    "english": "lunala",
+    "korean": "루나아라"
+  },
+  {
+    "id": 793,
+    "english": "nihilego",
+    "korean": "텅비드"
+  },
+  {
+    "id": 794,
+    "english": "buzzwole",
+    "korean": "매시붕"
+  },
+  {
+    "id": 795,
+    "english": "pheromosa",
+    "korean": "페로코체"
+  },
+  {
+    "id": 796,
+    "english": "xurkitree",
+    "korean": "전수목"
+  },
+  {
+    "id": 797,
+    "english": "celesteela",
+    "korean": "철화구야"
+  },
+  {
+    "id": 798,
+    "english": "kartana",
+    "korean": "종이신도"
+  },
+  {
+    "id": 799,
+    "english": "guzzlord",
+    "korean": "악식킹"
+  },
+  {
+    "id": 800,
+    "english": "necrozma",
+    "korean": "네크로즈마"
+  },
+  {
+    "id": 801,
+    "english": "magearna",
+    "korean": "마기아나"
+  },
+  {
+    "id": 802,
+    "english": "marshadow",
+    "korean": "마샤도"
+  },
+  {
+    "id": 803,
+    "english": "poipole",
+    "korean": "베베놈"
+  },
+  {
+    "id": 804,
+    "english": "naganadel",
+    "korean": "아고용"
+  },
+  {
+    "id": 805,
+    "english": "stakataka",
+    "korean": "차곡차곡"
+  },
+  {
+    "id": 806,
+    "english": "blacephalon",
+    "korean": "두파팡"
+  },
+  {
+    "id": 807,
+    "english": "zeraora",
+    "korean": "제라오라"
+  },
+  {
+    "id": 808,
+    "english": "meltan",
+    "korean": "멜탄"
+  },
+  {
+    "id": 809,
+    "english": "melmetal",
+    "korean": "멜메탈"
+  },
+  {
+    "id": 810,
+    "english": "grookey",
+    "korean": "흥나숭"
+  },
+  {
+    "id": 811,
+    "english": "thwackey",
+    "korean": "채키몽"
+  },
+  {
+    "id": 812,
+    "english": "rillaboom",
+    "korean": "고릴타"
+  },
+  {
+    "id": 813,
+    "english": "scorbunny",
+    "korean": "염버니"
+  },
+  {
+    "id": 814,
+    "english": "raboot",
+    "korean": "래비풋"
+  },
+  {
+    "id": 815,
+    "english": "cinderace",
+    "korean": "에이스번"
+  },
+  {
+    "id": 816,
+    "english": "sobble",
+    "korean": "울머기"
+  },
+  {
+    "id": 817,
+    "english": "drizzile",
+    "korean": "누겔레온"
+  },
+  {
+    "id": 818,
+    "english": "inteleon",
+    "korean": "인텔리레온"
+  },
+  {
+    "id": 819,
+    "english": "skwovet",
+    "korean": "탐리스"
+  },
+  {
+    "id": 820,
+    "english": "greedent",
+    "korean": "요씽리스"
+  },
+  {
+    "id": 821,
+    "english": "rookidee",
+    "korean": "파라꼬"
+  },
+  {
+    "id": 822,
+    "english": "corvisquire",
+    "korean": "파크로우"
+  },
+  {
+    "id": 823,
+    "english": "corviknight",
+    "korean": "아머까오"
+  },
+  {
+    "id": 824,
+    "english": "blipbug",
+    "korean": "두루지벌레"
+  },
+  {
+    "id": 825,
+    "english": "dottler",
+    "korean": "레돔벌레"
+  },
+  {
+    "id": 826,
+    "english": "orbeetle",
+    "korean": "이올브"
+  },
+  {
+    "id": 827,
+    "english": "nickit",
+    "korean": "훔처우"
+  },
+  {
+    "id": 828,
+    "english": "thievul",
+    "korean": "폭슬라이"
+  },
+  {
+    "id": 829,
+    "english": "gossifleur",
+    "korean": "꼬모카"
+  },
+  {
+    "id": 830,
+    "english": "eldegoss",
+    "korean": "백솜모카"
+  },
+  {
+    "id": 831,
+    "english": "wooloo",
+    "korean": "우르"
+  },
+  {
+    "id": 832,
+    "english": "dubwool",
+    "korean": "배우르"
+  },
+  {
+    "id": 833,
+    "english": "chewtle",
+    "korean": "깨물부기"
+  },
+  {
+    "id": 834,
+    "english": "drednaw",
+    "korean": "갈가부기"
+  },
+  {
+    "id": 835,
+    "english": "yamper",
+    "korean": "멍파치"
+  },
+  {
+    "id": 836,
+    "english": "boltund",
+    "korean": "펄스멍"
+  },
+  {
+    "id": 837,
+    "english": "rolycoly",
+    "korean": "탄동"
+  },
+  {
+    "id": 838,
+    "english": "carkol",
+    "korean": "탄차곤"
+  },
+  {
+    "id": 839,
+    "english": "coalossal",
+    "korean": "석탄산"
+  },
+  {
+    "id": 840,
+    "english": "applin",
+    "korean": "과사삭벌레"
+  },
+  {
+    "id": 841,
+    "english": "flapple",
+    "korean": "애프룡"
+  },
+  {
+    "id": 842,
+    "english": "appletun",
+    "korean": "단지래플"
+  },
+  {
+    "id": 843,
+    "english": "silicobra",
+    "korean": "모래뱀"
+  },
+  {
+    "id": 844,
+    "english": "sandaconda",
+    "korean": "사다이사"
+  },
+  {
+    "id": 845,
+    "english": "cramorant",
+    "korean": "윽우지"
+  },
+  {
+    "id": 846,
+    "english": "arrokuda",
+    "korean": "찌로꼬치"
+  },
+  {
+    "id": 847,
+    "english": "barraskewda",
+    "korean": "꼬치조"
+  },
+  {
+    "id": 848,
+    "english": "toxel",
+    "korean": "일레즌"
+  },
+  {
+    "id": 849,
+    "english": "toxtricity",
+    "korean": "스트린더"
+  },
+  {
+    "id": 850,
+    "english": "sizzlipede",
+    "korean": "태우지네"
+  },
+  {
+    "id": 851,
+    "english": "centiskorch",
+    "korean": "다태우지네"
+  },
+  {
+    "id": 852,
+    "english": "clobbopus",
+    "korean": "때때무노"
+  },
+  {
+    "id": 853,
+    "english": "grapploct",
+    "korean": "케오퍼스"
+  },
+  {
+    "id": 854,
+    "english": "sinistea",
+    "korean": "데인차"
+  },
+  {
+    "id": 855,
+    "english": "polteageist",
+    "korean": "포트데스"
+  },
+  {
+    "id": 856,
+    "english": "hatenna",
+    "korean": "몸지브림"
+  },
+  {
+    "id": 857,
+    "english": "hattrem",
+    "korean": "손지브림"
+  },
+  {
+    "id": 858,
+    "english": "hatterene",
+    "korean": "브리무음"
+  },
+  {
+    "id": 859,
+    "english": "impidimp",
+    "korean": "메롱꿍"
+  },
+  {
+    "id": 860,
+    "english": "morgrem",
+    "korean": "쏘겨모"
+  },
+  {
+    "id": 861,
+    "english": "grimmsnarl",
+    "korean": "오롱털"
+  },
+  {
+    "id": 862,
+    "english": "obstagoon",
+    "korean": "가로막구리"
+  },
+  {
+    "id": 863,
+    "english": "perrserker",
+    "korean": "나이킹"
+  },
+  {
+    "id": 864,
+    "english": "cursola",
+    "korean": "산호르곤"
+  },
+  {
+    "id": 865,
+    "english": "sirfetchd",
+    "korean": "창파나이트"
+  },
+  {
+    "id": 866,
+    "english": "mr-rime",
+    "korean": "마임꽁꽁"
+  },
+  {
+    "id": 867,
+    "english": "runerigus",
+    "korean": "데스판"
+  },
+  {
+    "id": 868,
+    "english": "milcery",
+    "korean": "마빌크"
+  },
+  {
+    "id": 869,
+    "english": "alcremie",
+    "korean": "마휘핑"
+  },
+  {
+    "id": 870,
+    "english": "falinks",
+    "korean": "대여르"
+  },
+  {
+    "id": 871,
+    "english": "pincurchin",
+    "korean": "찌르성게"
+  },
+  {
+    "id": 872,
+    "english": "snom",
+    "korean": "누니머기"
+  },
+  {
+    "id": 873,
+    "english": "frosmoth",
+    "korean": "모스노우"
+  },
+  {
+    "id": 874,
+    "english": "stonjourner",
+    "korean": "돌헨진"
+  },
+  {
+    "id": 875,
+    "english": "eiscue",
+    "korean": "빙큐보"
+  },
+  {
+    "id": 876,
+    "english": "indeedee",
+    "korean": "에써르"
+  },
+  {
+    "id": 877,
+    "english": "morpeko",
+    "korean": "모르페코"
+  },
+  {
+    "id": 878,
+    "english": "cufant",
+    "korean": "끼리동"
+  },
+  {
+    "id": 879,
+    "english": "copperajah",
+    "korean": "대왕끼리동"
+  },
+  {
+    "id": 880,
+    "english": "dracozolt",
+    "korean": "파치래곤"
+  },
+  {
+    "id": 881,
+    "english": "arctozolt",
+    "korean": "파치르돈"
+  },
+  {
+    "id": 882,
+    "english": "dracovish",
+    "korean": "어래곤"
+  },
+  {
+    "id": 883,
+    "english": "arctovish",
+    "korean": "어치르돈"
+  },
+  {
+    "id": 884,
+    "english": "duraludon",
+    "korean": "두랄루돈"
+  },
+  {
+    "id": 885,
+    "english": "dreepy",
+    "korean": "드라꼰"
+  },
+  {
+    "id": 886,
+    "english": "drakloak",
+    "korean": "드래런치"
+  },
+  {
+    "id": 887,
+    "english": "dragapult",
+    "korean": "드래펄트"
+  },
+  {
+    "id": 888,
+    "english": "zacian",
+    "korean": "자시안"
+  },
+  {
+    "id": 889,
+    "english": "zamazenta",
+    "korean": "자마젠타"
+  },
+  {
+    "id": 890,
+    "english": "eternatus",
+    "korean": "무한다이노"
+  },
+  {
+    "id": 891,
+    "english": "kubfu",
+    "korean": "치고마"
+  },
+  {
+    "id": 892,
+    "english": "urshifu",
+    "korean": "우라오스"
+  },
+  {
+    "id": 893,
+    "english": "zarude",
+    "korean": "자루도"
+  },
+  {
+    "id": 894,
+    "english": "regieleki",
+    "korean": "레지에레키"
+  },
+  {
+    "id": 895,
+    "english": "regidrago",
+    "korean": "레지드래고"
+  },
+  {
+    "id": 896,
+    "english": "glastrier",
+    "korean": "블리자포스"
+  },
+  {
+    "id": 897,
+    "english": "spectrier",
+    "korean": "레이스포스"
+  },
+  {
+    "id": 898,
+    "english": "calyrex",
+    "korean": "버드렉스"
+  },
+  {
+    "id": 899,
+    "english": "wyrdeer",
+    "korean": "신비록"
+  },
+  {
+    "id": 900,
+    "english": "kleavor",
+    "korean": "사마자르"
+  },
+  {
+    "id": 901,
+    "english": "ursaluna",
+    "korean": "다투곰"
+  },
+  {
+    "id": 902,
+    "english": "basculegion",
+    "korean": "대쓰여너"
+  },
+  {
+    "id": 903,
+    "english": "sneasler",
+    "korean": "포푸니크"
+  },
+  {
+    "id": 904,
+    "english": "overqwil",
+    "korean": "장침바루"
+  },
+  {
+    "id": 905,
+    "english": "enamorus",
+    "korean": "러브로스"
+  },
+  {
+    "id": 906,
+    "english": "sprigatito",
+    "korean": "나오하"
+  },
+  {
+    "id": 907,
+    "english": "floragato",
+    "korean": "나로테"
+  },
+  {
+    "id": 908,
+    "english": "meowscarada",
+    "korean": "마스카나"
+  },
+  {
+    "id": 909,
+    "english": "fuecoco",
+    "korean": "뜨아거"
+  },
+  {
+    "id": 910,
+    "english": "crocalor",
+    "korean": "악뜨거"
+  },
+  {
+    "id": 911,
+    "english": "skeledirge",
+    "korean": "라우드본"
+  },
+  {
+    "id": 912,
+    "english": "quaxly",
+    "korean": "꾸왁스"
+  },
+  {
+    "id": 913,
+    "english": "quaxwell",
+    "korean": "아꾸왁"
+  },
+  {
+    "id": 914,
+    "english": "quaquaval",
+    "korean": "웨이니발"
+  },
+  {
+    "id": 915,
+    "english": "lechonk",
+    "korean": "맛보돈"
+  },
+  {
+    "id": 916,
+    "english": "oinkologne",
+    "korean": "퍼퓨돈"
+  },
+  {
+    "id": 917,
+    "english": "tarountula",
+    "korean": "타랜툴라"
+  },
+  {
+    "id": 918,
+    "english": "spidops",
+    "korean": "트래피더"
+  },
+  {
+    "id": 919,
+    "english": "nymble",
+    "korean": "콩알뚜기"
+  },
+  {
+    "id": 920,
+    "english": "lokix",
+    "korean": "엑스레그"
+  },
+  {
+    "id": 921,
+    "english": "pawmi",
+    "korean": "빠모"
+  },
+  {
+    "id": 922,
+    "english": "pawmo",
+    "korean": "빠모트"
+  },
+  {
+    "id": 923,
+    "english": "pawmot",
+    "korean": "빠르모트"
+  },
+  {
+    "id": 924,
+    "english": "tandemaus",
+    "korean": "두리쥐"
+  },
+  {
+    "id": 925,
+    "english": "maushold",
+    "korean": "파밀리쥐"
+  },
+  {
+    "id": 926,
+    "english": "fidough",
+    "korean": "쫀도기"
+  },
+  {
+    "id": 927,
+    "english": "dachsbun",
+    "korean": "바우첼"
+  },
+  {
+    "id": 928,
+    "english": "smoliv",
+    "korean": "미니브"
+  },
+  {
+    "id": 929,
+    "english": "dolliv",
+    "korean": "올리뇨"
+  },
+  {
+    "id": 930,
+    "english": "arboliva",
+    "korean": "올리르바"
+  },
+  {
+    "id": 931,
+    "english": "squawkabilly",
+    "korean": "시비꼬"
+  },
+  {
+    "id": 932,
+    "english": "nacli",
+    "korean": "베베솔트"
+  },
+  {
+    "id": 933,
+    "english": "naclstack",
+    "korean": "스태솔트"
+  },
+  {
+    "id": 934,
+    "english": "garganacl",
+    "korean": "콜로솔트"
+  },
+  {
+    "id": 935,
+    "english": "charcadet",
+    "korean": "카르본"
+  },
+  {
+    "id": 936,
+    "english": "armarouge",
+    "korean": "카디나르마"
+  },
+  {
+    "id": 937,
+    "english": "ceruledge",
+    "korean": "파라블레이즈"
+  },
+  {
+    "id": 938,
+    "english": "tadbulb",
+    "korean": "빈나두"
+  },
+  {
+    "id": 939,
+    "english": "bellibolt",
+    "korean": "찌리배리"
+  },
+  {
+    "id": 940,
+    "english": "wattrel",
+    "korean": "찌리비"
+  },
+  {
+    "id": 941,
+    "english": "kilowattrel",
+    "korean": "찌리비크"
+  },
+  {
+    "id": 942,
+    "english": "maschiff",
+    "korean": "오라티프"
+  },
+  {
+    "id": 943,
+    "english": "mabosstiff",
+    "korean": "마피티프"
+  },
+  {
+    "id": 944,
+    "english": "shroodle",
+    "korean": "땃쭈르"
+  },
+  {
+    "id": 945,
+    "english": "grafaiai",
+    "korean": "태깅구르"
+  },
+  {
+    "id": 946,
+    "english": "bramblin",
+    "korean": "그푸리"
+  },
+  {
+    "id": 947,
+    "english": "brambleghast",
+    "korean": "공푸리"
+  },
+  {
+    "id": 948,
+    "english": "toedscool",
+    "korean": "들눈해"
+  },
+  {
+    "id": 949,
+    "english": "toedscruel",
+    "korean": "육파리"
+  },
+  {
+    "id": 950,
+    "english": "klawf",
+    "korean": "절벼게"
+  },
+  {
+    "id": 951,
+    "english": "capsakid",
+    "korean": "캡싸이"
+  },
+  {
+    "id": 952,
+    "english": "scovillain",
+    "korean": "스코빌런"
+  },
+  {
+    "id": 953,
+    "english": "rellor",
+    "korean": "구르데"
+  },
+  {
+    "id": 954,
+    "english": "rabsca",
+    "korean": "베라카스"
+  },
+  {
+    "id": 955,
+    "english": "flittle",
+    "korean": "하느라기"
+  },
+  {
+    "id": 956,
+    "english": "espathra",
+    "korean": "클레스퍼트라"
+  },
+  {
+    "id": 957,
+    "english": "tinkatink",
+    "korean": "어리짱"
+  },
+  {
+    "id": 958,
+    "english": "tinkatuff",
+    "korean": "벼리짱"
+  },
+  {
+    "id": 959,
+    "english": "tinkaton",
+    "korean": "두드리짱"
+  },
+  {
+    "id": 960,
+    "english": "wiglett",
+    "korean": "바다그다"
+  },
+  {
+    "id": 961,
+    "english": "wugtrio",
+    "korean": "바닥트리오"
+  },
+  {
+    "id": 962,
+    "english": "bombirdier",
+    "korean": "떨구새"
+  },
+  {
+    "id": 963,
+    "english": "finizen",
+    "korean": "맨돌핀"
+  },
+  {
+    "id": 964,
+    "english": "palafin",
+    "korean": "돌핀맨"
+  },
+  {
+    "id": 965,
+    "english": "varoom",
+    "korean": "부르롱"
+  },
+  {
+    "id": 966,
+    "english": "revavroom",
+    "korean": "부르르룸"
+  },
+  {
+    "id": 967,
+    "english": "cyclizar",
+    "korean": "모토마"
+  },
+  {
+    "id": 968,
+    "english": "orthworm",
+    "korean": "꿈트렁"
+  },
+  {
+    "id": 969,
+    "english": "glimmet",
+    "korean": "초롱순"
+  },
+  {
+    "id": 970,
+    "english": "glimmora",
+    "korean": "킬라플로르"
+  },
+  {
+    "id": 971,
+    "english": "greavard",
+    "korean": "망망이"
+  },
+  {
+    "id": 972,
+    "english": "houndstone",
+    "korean": "묘두기"
+  },
+  {
+    "id": 973,
+    "english": "flamigo",
+    "korean": "꼬이밍고"
+  },
+  {
+    "id": 974,
+    "english": "cetoddle",
+    "korean": "터벅고래"
+  },
+  {
+    "id": 975,
+    "english": "cetitan",
+    "korean": "우락고래"
+  },
+  {
+    "id": 976,
+    "english": "veluza",
+    "korean": "가비루사"
+  },
+  {
+    "id": 977,
+    "english": "dondozo",
+    "korean": "어써러셔"
+  },
+  {
+    "id": 978,
+    "english": "tatsugiri",
+    "korean": "싸리용"
+  },
+  {
+    "id": 979,
+    "english": "annihilape",
+    "korean": "저승갓숭"
+  },
+  {
+    "id": 980,
+    "english": "clodsire",
+    "korean": "토오"
+  },
+  {
+    "id": 981,
+    "english": "farigiraf",
+    "korean": "키키링"
+  },
+  {
+    "id": 982,
+    "english": "dudunsparce",
+    "korean": "노고고치"
+  },
+  {
+    "id": 983,
+    "english": "kingambit",
+    "korean": "대도각참"
+  },
+  {
+    "id": 984,
+    "english": "great-tusk",
+    "korean": "위대한엄니"
+  },
+  {
+    "id": 985,
+    "english": "scream-tail",
+    "korean": "우렁찬꼬리"
+  },
+  {
+    "id": 986,
+    "english": "brute-bonnet",
+    "korean": "사나운버섯"
+  },
+  {
+    "id": 987,
+    "english": "flutter-mane",
+    "korean": "날개치는머리"
+  },
+  {
+    "id": 988,
+    "english": "slither-wing",
+    "korean": "땅을기는날개"
+  },
+  {
+    "id": 989,
+    "english": "sandy-shocks",
+    "korean": "모래털가죽"
+  },
+  {
+    "id": 990,
+    "english": "iron-treads",
+    "korean": "무쇠바퀴"
+  },
+  {
+    "id": 991,
+    "english": "iron-bundle",
+    "korean": "무쇠보따리"
+  },
+  {
+    "id": 992,
+    "english": "iron-hands",
+    "korean": "무쇠손"
+  },
+  {
+    "id": 993,
+    "english": "iron-jugulis",
+    "korean": "무쇠머리"
+  },
+  {
+    "id": 994,
+    "english": "iron-moth",
+    "korean": "무쇠독나방"
+  },
+  {
+    "id": 995,
+    "english": "iron-thorns",
+    "korean": "무쇠가시"
+  },
+  {
+    "id": 996,
+    "english": "frigibax",
+    "korean": "드니차"
+  },
+  {
+    "id": 997,
+    "english": "arctibax",
+    "korean": "드니꽁"
+  },
+  {
+    "id": 998,
+    "english": "baxcalibur",
+    "korean": "드닐레이브"
+  },
+  {
+    "id": 999,
+    "english": "gimmighoul",
+    "korean": "모으령"
+  },
+  {
+    "id": 1000,
+    "english": "gholdengo",
+    "korean": "타부자고"
+  },
+  {
+    "id": 1001,
+    "english": "wo-chien",
+    "korean": "총지엔"
+  },
+  {
+    "id": 1002,
+    "english": "chien-pao",
+    "korean": "파오젠"
+  },
+  {
+    "id": 1003,
+    "english": "ting-lu",
+    "korean": "딩루"
+  },
+  {
+    "id": 1004,
+    "english": "chi-yu",
+    "korean": "위유이"
+  },
+  {
+    "id": 1005,
+    "english": "roaring-moon",
+    "korean": "고동치는달"
+  },
+  {
+    "id": 1006,
+    "english": "iron-valiant",
+    "korean": "무쇠무인"
+  },
+  {
+    "id": 1007,
+    "english": "koraidon",
+    "korean": "코라이돈"
+  },
+  {
+    "id": 1008,
+    "english": "miraidon",
+    "korean": "미라이돈"
+  },
+  {
+    "id": 1009,
+    "english": "walking-wake",
+    "korean": "굽이치는물결"
+  },
+  {
+    "id": 1010,
+    "english": "iron-leaves",
+    "korean": "무쇠잎새"
+  },
+  {
+    "id": 1011,
+    "english": "dipplin",
+    "korean": "과미르"
+  },
+  {
+    "id": 1012,
+    "english": "poltchageist",
+    "korean": "차데스"
+  },
+  {
+    "id": 1013,
+    "english": "sinistcha",
+    "korean": "그우린차"
+  },
+  {
+    "id": 1014,
+    "english": "okidogi",
+    "korean": "조타구"
+  },
+  {
+    "id": 1015,
+    "english": "munkidori",
+    "korean": "이야후"
+  },
+  {
+    "id": 1016,
+    "english": "fezandipiti",
+    "korean": "기로치"
+  },
+  {
+    "id": 1017,
+    "english": "ogerpon",
+    "korean": "오거폰"
+  },
+  {
+    "id": 1018,
+    "english": "archaludon",
+    "korean": "브리두라스"
+  },
+  {
+    "id": 1019,
+    "english": "hydrapple",
+    "korean": "과미드라"
+  },
+  {
+    "id": 1020,
+    "english": "gouging-fire",
+    "korean": "꿰뚫는화염"
+  },
+  {
+    "id": 1021,
+    "english": "raging-bolt",
+    "korean": "날뛰는우레"
+  },
+  {
+    "id": 1022,
+    "english": "iron-boulder",
+    "korean": "무쇠암석"
+  },
+  {
+    "id": 1023,
+    "english": "iron-crown",
+    "korean": "무쇠감투"
+  },
+  {
+    "id": 1024,
+    "english": "terapagos",
+    "korean": "테라파고스"
+  },
+  {
+    "id": 1025,
+    "english": "pecharunt",
+    "korean": "복숭악동"
+  }
+]
