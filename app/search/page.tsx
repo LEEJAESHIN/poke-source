@@ -4,6 +4,10 @@ import { Search } from "lucide-react";
 import { searchPokemon, getPokemonSpecies, getKoreanName, getCompetitiveStats } from "@/lib/pokemon-api";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import { getTypeColor, getKoreanTypeName } from "@/lib/type-colors";
+import { getDefensiveEffectiveness, getOffensiveEffectiveness } from "@/lib/type-effectiveness";
+import { getKoreanStatName } from "@/lib/stat-names";
+import { analyzePokemonRole, calculateTotalStats } from "@/lib/pokemon-role";
 
 export default async function SearchPage({
   searchParams,
@@ -78,8 +82,15 @@ export default async function SearchPage({
                 </CardTitle>
                 <div className="flex gap-2">
                   {pokemon.types.map((type) => (
-                    <Badge key={type.type.name} variant="secondary">
-                      {type.type.name}
+                    <Badge
+                      key={type.type.name}
+                      style={{
+                        backgroundColor: getTypeColor(type.type.name),
+                        color: '#fff',
+                        border: 'none'
+                      }}
+                    >
+                      {getKoreanTypeName(type.type.name)}
                     </Badge>
                   ))}
                 </div>
@@ -107,11 +118,16 @@ export default async function SearchPage({
                     </p>
                   </div>
 
-                  <h3 className="text-xl font-semibold mt-6 mb-4">능력치</h3>
+                  <div className="flex items-center gap-2 mt-6 mb-4">
+                    <h3 className="text-xl font-semibold">능력치</h3>
+                    <Badge variant="secondary" className="text-xs px-2 py-0.5">
+                      총합 {calculateTotalStats(pokemon.stats)}
+                    </Badge>
+                  </div>
                   <div className="space-y-2">
                     {pokemon.stats.map((stat) => (
                       <div key={stat.stat.name} className="flex items-center gap-2">
-                        <span className="w-32 text-sm">{stat.stat.name}:</span>
+                        <span className="w-32 text-sm">{getKoreanStatName(stat.stat.name)}:</span>
                         <div className="flex-1 bg-gray-200 rounded-full h-2">
                           <div
                             className="bg-blue-500 h-2 rounded-full"
@@ -137,13 +153,11 @@ export default async function SearchPage({
               <CardContent>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <div>
-                    <h4 className="font-semibold mb-3 text-lg">타입</h4>
-                    <div className="flex gap-2">
-                      {pokemon.types.map((type) => (
-                        <Badge key={type.type.name} variant="secondary" className="text-base">
-                          {type.type.name}
-                        </Badge>
-                      ))}
+                    <h4 className="font-semibold mb-3 text-lg">역할</h4>
+                    <div className="space-y-2">
+                      <div className="flex items-center justify-between">
+                        <span className="text-base font-medium">{analyzePokemonRole(pokemon.stats)}</span>
+                      </div>
                     </div>
                   </div>
 
@@ -180,6 +194,171 @@ export default async function SearchPage({
                           <span className="text-sm text-gray-500">{item.usage.toFixed(1)}%</span>
                         </div>
                       ))}
+                    </div>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-2xl">타입 상성</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <div>
+                    <h4 className="font-semibold mb-3 text-lg">방어 상성</h4>
+                    <div className="space-y-2">
+                      {(() => {
+                        const pokemonTypeNames = pokemon.types.map((t) => t.type.name);
+                        const defensive = getDefensiveEffectiveness(pokemonTypeNames);
+                        const weak = Object.entries(defensive).filter(([_, mult]) => mult > 1);
+                        const resistant = Object.entries(defensive).filter(([_, mult]) => mult < 1 && mult > 0);
+                        const immune = Object.entries(defensive).filter(([_, mult]) => mult === 0);
+
+                        return (
+                          <>
+                            {weak.length > 0 && (
+                              <div>
+                                <p className="text-sm text-gray-600 mb-1">약점 (효과 굉장)</p>
+                                <div className="flex flex-wrap gap-1">
+                                  {weak.map(([type, mult]) => (
+                                    <Badge
+                                      key={type}
+                                      className="text-xs"
+                                      style={{
+                                        backgroundColor: getTypeColor(type),
+                                        color: '#fff',
+                                        border: 'none'
+                                      }}
+                                    >
+                                      {getKoreanTypeName(type)} ×{mult}
+                                    </Badge>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+                            {resistant.length > 0 && (
+                              <div>
+                                <p className="text-sm text-gray-600 mb-1">저항 (효과 별로)</p>
+                                <div className="flex flex-wrap gap-1">
+                                  {resistant.map(([type, mult]) => (
+                                    <Badge
+                                      key={type}
+                                      className="text-xs"
+                                      style={{
+                                        backgroundColor: getTypeColor(type),
+                                        color: '#fff',
+                                        border: 'none'
+                                      }}
+                                    >
+                                      {getKoreanTypeName(type)} ×{mult}
+                                    </Badge>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+                            {immune.length > 0 && (
+                              <div>
+                                <p className="text-sm text-gray-600 mb-1">무효 (효과 없음)</p>
+                                <div className="flex flex-wrap gap-1">
+                                  {immune.map(([type]) => (
+                                    <Badge
+                                      key={type}
+                                      className="text-xs"
+                                      style={{
+                                        backgroundColor: getTypeColor(type),
+                                        color: '#fff',
+                                        border: 'none'
+                                      }}
+                                    >
+                                      {getKoreanTypeName(type)} ×0
+                                    </Badge>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+                          </>
+                        );
+                      })()}
+                    </div>
+                  </div>
+
+                  <div>
+                    <h4 className="font-semibold mb-3 text-lg">공격 상성</h4>
+                    <div className="space-y-2">
+                      {(() => {
+                        const pokemonTypeNames = pokemon.types.map((t) => t.type.name);
+                        const offensive = getOffensiveEffectiveness(pokemonTypeNames);
+                        const superEffective = Object.entries(offensive).filter(([_, mult]) => mult > 1);
+                        const notVeryEffective = Object.entries(offensive).filter(([_, mult]) => mult < 1 && mult > 0);
+                        const noEffect = Object.entries(offensive).filter(([_, mult]) => mult === 0);
+
+                        return (
+                          <>
+                            {superEffective.length > 0 && (
+                              <div>
+                                <p className="text-sm text-gray-600 mb-1">효과 굉장</p>
+                                <div className="flex flex-wrap gap-1">
+                                  {superEffective.map(([type, mult]) => (
+                                    <Badge
+                                      key={type}
+                                      className="text-xs"
+                                      style={{
+                                        backgroundColor: getTypeColor(type),
+                                        color: '#fff',
+                                        border: 'none'
+                                      }}
+                                    >
+                                      {getKoreanTypeName(type)} ×{mult}
+                                    </Badge>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+                            {notVeryEffective.length > 0 && (
+                              <div>
+                                <p className="text-sm text-gray-600 mb-1">효과 별로</p>
+                                <div className="flex flex-wrap gap-1">
+                                  {notVeryEffective.map(([type, mult]) => (
+                                    <Badge
+                                      key={type}
+                                      className="text-xs"
+                                      style={{
+                                        backgroundColor: getTypeColor(type),
+                                        color: '#fff',
+                                        border: 'none'
+                                      }}
+                                    >
+                                      {getKoreanTypeName(type)} ×{mult}
+                                    </Badge>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+                            {noEffect.length > 0 && (
+                              <div>
+                                <p className="text-sm text-gray-600 mb-1">효과 없음</p>
+                                <div className="flex flex-wrap gap-1">
+                                  {noEffect.map(([type]) => (
+                                    <Badge
+                                      key={type}
+                                      className="text-xs"
+                                      style={{
+                                        backgroundColor: getTypeColor(type),
+                                        color: '#fff',
+                                        border: 'none'
+                                      }}
+                                    >
+                                      {getKoreanTypeName(type)} ×0
+                                    </Badge>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+                          </>
+                        );
+                      })()}
                     </div>
                   </div>
                 </div>
