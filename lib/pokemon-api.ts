@@ -100,6 +100,57 @@ async function getItemNameFromPokemoem(itemId: string): Promise<string> {
   }
 }
 
+// 오늘의 포켓몬 랜덤 6마리 가져오기 (날짜 기반 시드)
+export async function getTodaysPokemon(): Promise<Array<{ id: number; name: string; koreanName: string; sprite: string }>> {
+  try {
+    // pokemon-names.json 가져오기
+    const pokemonNamesModule = await import("./data/pokemon-names.json");
+    const pokemonNames = pokemonNamesModule.default;
+
+    // 오늘 날짜를 시드로 사용 (매일 같은 포켓몬 보장)
+    const today = new Date();
+    const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
+
+    // 시드 기반 랜덤 함수
+    const seededRandom = (seed: number) => {
+      const x = Math.sin(seed++) * 10000;
+      return x - Math.floor(x);
+    };
+
+    // 랜덤 인덱스 6개 생성
+    const randomIndices = new Set<number>();
+    let currentSeed = seed;
+
+    while (randomIndices.size < 6) {
+      const randomIndex = Math.floor(seededRandom(currentSeed++) * pokemonNames.length);
+      randomIndices.add(randomIndex);
+    }
+
+    // 각 포켓몬 데이터 가져오기
+    const pokemonPromises = Array.from(randomIndices).map(async (index) => {
+      const pokemonData = pokemonNames[index];
+      const pokemon = await getPokemonByName(pokemonData.english);
+
+      if (!pokemon) {
+        return null;
+      }
+
+      return {
+        id: pokemon.id,
+        name: pokemon.name,
+        koreanName: pokemonData.korean,
+        sprite: pokemon.sprites.other["official-artwork"].front_default || pokemon.sprites.front_default
+      };
+    });
+
+    const results = await Promise.all(pokemonPromises);
+    return results.filter((p) => p !== null) as Array<{ id: number; name: string; koreanName: string; sprite: string }>;
+  } catch (error) {
+    console.error("Error fetching today's Pokemon:", error);
+    return [];
+  }
+}
+
 // Pokemoem 배틀 통계 가져오기 (한국 배틀 데이터)
 export async function getCompetitiveStats(
   pokemonId: number

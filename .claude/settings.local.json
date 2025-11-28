@@ -10,7 +10,8 @@
       "Bash(do:*)",
       "Bash(done)",
       "Bash(for id in 287 297 275)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(npm run build:*)"
     ],
     "deny": [],
     "ask": []
